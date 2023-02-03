@@ -25,6 +25,18 @@ It is the practice of using a network of remote servers hosted on the Intenet to
 - Those VM's runs independently and can runs different Operating System in different VM's.
 - By the use of virtualization the resources can be more utalized then Dedicated server.
 
+### Shared Hosting
+- In Shared Hosting one physical machine is shared by hundred of business organization.
+- It is very cheap but with some limitations.
+- Relies on most tenants under-utilizing their resources. It means that if one person is using more resources then other the all other will be affected by it.
+
+### Cloud Hosting
+- In Cloud Hosting multiple physical machine act as one system which could be described as a cloud.
+- The system is abstracted into multiple cloud services.
+- It's flexible, Stable, Secure, Cost-effective and comes with high Configurability.
+
+
+
 
 
 
