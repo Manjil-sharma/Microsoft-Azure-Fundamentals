@@ -1,10 +1,13 @@
 # Microsoft-Azure-Fundamentals
 I will be studying about Azure Fundamentals by Microsoft and updating daily about my progress and understanding. I will be following SK Singh for Cloud Computing and Andrew Brown for Microsoft Azure Fundamentals.
 
-#DAY 1
+## Day 1 of #Microsoft Azure Fundamentals
+- **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-#CLOUD COMPUTING:
-It is the practice of using a network of remote servers hosted on the Intenet to store, manage, and process date, rather than a local server or a personal computer.
+Today I learned what Cloud Computing  is, common terminology, and common components and a little bit of history before Cloud.<br>
+
+###Cloud Computing
+It is the practice of using a network of remote servers hosted on the Intenet to store, manage, and process date, rather than a local server or a personal computer.<br>
 
 
 
