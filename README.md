@@ -18,6 +18,13 @@ It is the practice of using a network of remote servers hosted on the Intenet to
 - But every time we need a new business app/site, We need a new physical server.
 - Since only one app/site uses the entire server the resources of the server will not be fully utalized.
 
+### Virtual Private Server
+- The Virtual Private Server is also a physical machine dedicated to a single business but the Physical machine is virtualized into sub-machines.
+- Due to virtulization multiple web-apps/sites can run on single server.
+- Hypervisor is placed on top of the Host Operating System due to which many virtual machines can be created .
+- Those VM's runs independently and can runs different Operating System in different VM's.
+- By the use of virtualization the resources can be more utalized then Dedicated server.
+
 
 
 
