@@ -2,7 +2,7 @@
 I will be studying about Azure Fundamentals by Microsoft and updating daily about my progress and understanding. I will be following SK Singh for Cloud Computing and Andrew Brown for Microsoft Azure Fundamentals.
 
 ## Day 1 of #Microsoft Azure Fundamentals
-- **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
 Today I learned what Cloud Computing  is, common terminology, and common components and a little bit of history before the rise of Cloud.<br>
 
@@ -12,8 +12,11 @@ It is the practice of using a network of remote servers hosted on the Intenet to
 ### Evolution to Cloud Hosting
 
 #### Dedicated Server
+- Dedicated servers are one physical machine dedicated to a single business.<br>
+- It only runs single web-app/site.
+- It is very expensive and need high maintenancec but has high security.
+- But every time we need a new business app/site, We need a new physical server.
 
-:large_blue_diamond: Dedicated servers are one physical machine dedicated to a single business.<br>
 
 
 
