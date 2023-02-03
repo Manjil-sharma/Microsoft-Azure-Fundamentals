@@ -13,7 +13,7 @@ It is the practice of using a network of remote servers hosted on the Intenet to
 
 #### Dedicated Server
 
-:blue_diamond: Dedicated servers are one physical machine dedicated to a single business.<br>
+: Large_blue_diamond : Dedicated servers are one physical machine dedicated to a single business.<br>
 
 
 
