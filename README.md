@@ -16,6 +16,8 @@ It is the practice of using a network of remote servers hosted on the Intenet to
 - It only runs single web-app/site.
 - It is very expensive and need high maintenancec but has high security.
 - But every time we need a new business app/site, We need a new physical server.
+- Since only one app/site uses the entire server the resources of the server will not be fully utalized.
+
 
 
 
