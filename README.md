@@ -39,6 +39,29 @@ It is the practice of using a network of remote servers hosted on the Intenet to
 - It's flexible, Stable, Secure, Cost-effective and comes with high Configurability.
 
 
+## Day 2 of #Microsoft Azure Fundamentals<br>
+
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about common cloud services for Infrastructure as a service(IaaS).<br
+
+### Common Cloud Services
+
+A cloud provider can have hundreds of Cloud Services that are grouped into various types of services. The  four most common types of Cloud Services for Infrastructure as a services(IaaS) would be:
+
+### Compute
+It's like having virtual computer that can run applications, programs and Code.
+
+### Networking
+It's like having a virtual network being able to define internet connections or network isolations.
+
+### Storage
+It's like having virtual hard drive that can store file.
+
+### Datapase
+It's like having virtual database for storing data or database for general purpose web-appliication.
+
+
 
 
 
