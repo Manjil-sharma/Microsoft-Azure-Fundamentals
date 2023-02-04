@@ -43,24 +43,77 @@ It is the practice of using a network of remote servers hosted on the Intenet to
 
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned about common cloud services for Infrastructure as a service(IaaS).<br
+Today I learned about common cloud services for Infrastructure as a service(IaaS).<br>
 
 ### Common Cloud Services
 
-A cloud provider can have hundreds of Cloud Services that are grouped into various types of services. The  four most common types of Cloud Services for Infrastructure as a services(IaaS) would be:
+A Cloud provider can have hundreds of Cloud Services that are grouped into various types of services. The  four most common types of Cloud Services for Infrastructure as a services(IaaS) would be:<br>
 
 ### Compute
-It's like having virtual computer that can run applications, programs and Code.
+Compute in Infrastructure as a Service (IaaS) cloud computing refers to the virtualized computing resources and services provided by the cloud service provider. These resources and services may include:<br>
+
+- Virtual Machines (VMs): Provides customers with virtualized servers that can be used to run applications and services.
+
+- Containers: Offers a way to package and run applications and services in a lightweight, portable, and consistent manner.
+
+- Serverless Computing: Enables customers to run code without having to provision or manage servers, allowing them to focus on writing and running code rather than managing infrastructure.
+
+- Automated Scaling: Automatically increases or decreases the number of virtual machines based on demand, ensuring that resources are always available to meet the needs of the application.
+
+- Resource Management: Offers tools and services for managing computing resources, such as resource allocation, capacity planning, and cost optimization.
+
+In IaaS cloud computing, customers have the flexibility to adapt their compute infrastructure to meet their specific requirements. With a range of compute services and configurations available, customers can quickly and easily deploy and manage their applications and services in the cloud. The scalable and versatile nature of IaaS computing allows customers to efficiently meet the demands of their applications, while optimizing costs and maximizing performance.<br>
 
 ### Networking
-It's like having a virtual network being able to define internet connections or network isolations.
+In Infrastructure as a Service (IaaS) cloud computing, networking refers to the virtualized network infrastructure and services provided to customers by the cloud service provider. These services may include:
+
+- Virtual Private Networks (VPNs): Enables secure connectivity between on-premises and cloud-based resources.
+
+- Load Balancing: Distributes network traffic across multiple servers to optimize performance and ensure availability.
+
+- IP Addressing: Allocates and manages IP addresses for virtual resources.
+
+- Domain Name System (DNS): Resolves domain names to IP addresses, making it easier for users to access cloud-based applications and services.
+
+- Network Security: Includes firewalls, security groups, and other security measures to protect against network-based attacks.
+
+- Network Monitoring: Provides visibility into network performance and usage to help identify and resolve issues.
+
+In IaaS, customers have the ability to configure and manage the network infrastructure according to their needs, and can choose from a range of network services and configurations to meet their requirements. This flexible and scalable approach to networking enables customers to quickly and easily deploy and manage their applications and services in the cloud.<br>
+
+
 
 ### Storage
-It's like having virtual hard drive that can store file.
+In Infrastructure as a Service (IaaS) cloud computing, storage refers to the virtualized storage infrastructure and services provided by the cloud service provider. These services may include:<br>
 
-### Datapase
-It's like having virtual database for storing data or database for general purpose web-appliication.
+- Object Storage: Provides scalable, highly available, and cost-effective storage for unstructured data, such as images, videos, and log files.
 
+- Block Storage: Offers low-latency, high-performance storage for applications requiring direct access to block-level data, such as databases.
+
+- File Storage: Provides network-attached storage for file-based applications, such as file servers and home directories.
+
+- Backup and Recovery: Includes solutions for backing up and recovering data, such as snapshots, backups, and disaster recovery.
+
+- Data Management: Offers tools and services for managing data, such as data tiering, data replication, and data protection.
+
+In IaaS cloud computing, customers have the flexibility to tailor their storage infrastructure according to their specific needs. With a range of storage services and configurations to choose from, customers can easily store and manage their data in the cloud, adapting to their evolving requirements over time. This scalability and versatility allow for a more efficient and cost-effective approach to data management in the cloud.<br>
+
+
+
+### Database
+Databases refer to the virtualized database infrastructure and services provided by the cloud service provider. These services may include:<br>
+
+- Relational Databases: Offers structured data storage for applications, such as SQL databases.
+
+- NoSQL Databases: Provides non-relational data storage for unstructured or semi-structured data, such as document databases and key-value stores.
+
+- In-Memory Databases: Offers high-speed access to data for real-time applications, such as caching and session management.
+
+- Managed Databases: Provides fully managed database services, such as database administration, backup and recovery, and security.
+
+- Database Migration: Offers tools and services for migrating existing databases to the cloud, such as database replication and migration tools.
+
+In IaaS cloud computing, customers have the flexibility to customize their database infrastructure to fit their specific needs. With a variety of database services and configurations available, customers can quickly and easily deploy and manage their applications and services in the cloud. The scalability and versatility of IaaS databases allow for efficient data management, ensuring reliability and performance, while also allowing for seamless integration with existing systems.<br>
 
 
 
