@@ -65,7 +65,7 @@ Compute in Infrastructure as a Service (IaaS) cloud computing refers to the virt
 In IaaS cloud computing, customers have the flexibility to adapt their compute infrastructure to meet their specific requirements. With a range of compute services and configurations available, customers can quickly and easily deploy and manage their applications and services in the cloud. The scalable and versatile nature of IaaS computing allows customers to efficiently meet the demands of their applications, while optimizing costs and maximizing performance.<br>
 
 ### Networking
-In Infrastructure as a Service (IaaS) cloud computing, networking refers to the virtualized network infrastructure and services provided to customers by the cloud service provider. These services may include:
+In Infrastructure as a Service(IaaS) cloud computing, networking refers to the virtual network infrastructure and related services offered by the cloud provider to its clients. These services may include:<br>
 
 - Virtual Private Networks (VPNs): Enables secure connectivity between on-premises and cloud-based resources.
 
@@ -117,7 +117,13 @@ In IaaS cloud computing, customers have the flexibility to customize their datab
 
 
 
+## Day 3 of #Microsoft Azure Fundamentals<br>
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
+Today, I gained understanding of the advantages of Cloud Computing and how it addresses challenges faced in traditional methods while delivering reliability, speed, efficiency, and cost-effectiveness.<br>
+
+
+### Benefits of Cloud Computing<br>
 
 
 
