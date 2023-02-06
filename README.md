@@ -185,6 +185,9 @@ Overall, these benefits make cloud computing a compelling choice for organizatio
 
 Today, I gained insight into the different types of Cloud Computing and their significance. I also discovered the responsibilities associated with each type of Cloud Computing.<br>
 
+### Types of Cloud Computing
+There are three main types of cloud computing:<br>
+
 
 ### Software as a service(SaaS)
 
@@ -208,7 +211,7 @@ The shared responsibility model is a concept in cloud computing that outlines th
 
 The shared responsibility model can be visualized in a table format, where the responsibilities of the cloud service provider and the customer are clearly outlined for various aspects of the cloud infrastructure. By reviewing this table, you can get a clear understanding of what each party is responsible for, including hardware, network, storage, virtual machines, operating systems, and data.<br>
 
-![Cloud Computing Responsibility Model](https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/cloud-resp.png?raw=true)
+![Cloud Computing Responsibility Model](https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/cloud-resp.png?raw=true){: .center-image }
 
 
 
