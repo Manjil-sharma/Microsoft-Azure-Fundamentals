@@ -220,7 +220,7 @@ The shared responsibility model can be visualized in a table format, where the r
 ## Day 5 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned about Azure's Deployment Models
+Today, I gained an in-depth understanding of the various deployment models available on Azure, the cloud computing platform. These deployment models include the Public Cloud, Private Cloud, Hybrid Cloud, and Cross-Cloud, each offering its own unique set of benefits and advantages.
 
 ### Azure's Deployment Models
 
