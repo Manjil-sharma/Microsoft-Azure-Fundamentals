@@ -282,7 +282,7 @@ Today I learned about total cost of ownership ...
 
 ### Total Cost of Ownership
 
-Total Cost of Ownership (TCO) refers to the total cost of using cloud services, which includes both the direct costs (such as the cost of cloud storage and computing services) and indirect costs such as the cost of network connectivity and management.<br>
+Total Cost of Ownership (TCO) refers to the total cost of using cloud services, which includes both the direct costs such as the cost of cloud storage and computing services and indirect costs such as the cost of network connectivity and management.<br>
 
 Some of the factors that contribute to TCO in cloud computing include:<br>
 
