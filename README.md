@@ -278,7 +278,7 @@ The Azure Cross-Cloud solution provides organizations with the ability to optimi
 ## Day 5 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned about total cost of ownership ...
+Today I learned about the total cost of ownership (TCO) in cloud computing and how it's an important factor to consider when evaluating cloud solutions.<br>
 
 ### Total Cost of Ownership
 
