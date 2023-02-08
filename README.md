@@ -278,6 +278,26 @@ The Azure Cross-Cloud solution provides organizations with the ability to optimi
 ## Day 5 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
+Today I learned about total cost of ownership ...
+
+### Total Cost of Ownership
+
+Total Cost of Ownership (TCO) refers to the total cost of using cloud services, which includes both the direct costs (such as the cost of cloud storage and computing services) and indirect costs such as the cost of network connectivity and management.<br>
+
+Some of the factors that contribute to TCO in cloud computing include:<br>
+
+Usage costs: This includes the cost of the cloud services used, such as storage, compute power, and bandwidth.<br>
+Data transfer costs: Data transfer costs are charged when data is transferred in and out of the cloud.<br>
+Network connectivity costs: This includes the cost of connecting to the cloud service provider's network, such as VPN or direct connect.<br>
+Security and compliance costs: These include the costs of ensuring data security and compliance with regulatory requirements.<br>
+Management and administration costs: This includes the cost of managing and administering cloud services, including the cost of tools and staff required for this purpose.<br>
+It's important to take all of these costs into consideration when evaluating the TCO of a cloud computing solution, as the total cost can be significantly higher than just the cost of the cloud services themselves.<br>
+
+
+
+
+
+
 
 
 
