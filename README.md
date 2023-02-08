@@ -300,5 +300,10 @@ It's important to take all of these costs into consideration when evaluating the
 
 
 
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/total%20cost.PNG?raw=true">
+</p><br>
+
+
 
 
