@@ -275,6 +275,9 @@ The Azure Cross-Cloud solution provides organizations with the ability to optimi
 
 
 
+## Day 5 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
 
 
 
