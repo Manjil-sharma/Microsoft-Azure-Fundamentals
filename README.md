@@ -306,4 +306,15 @@ It's important to take all of these costs into consideration when evaluating the
 
 
 
+The table is a comparison of the Total Cost of Ownership (TCO) between using an on-premises data center and using Microsoft Azure cloud services. The comparison reveals that while the initial cost of purchasing software licenses and setting up an on-premises data center may seem lower, the long-term costs associated with hardware, IT personnel, maintenance, and physical security can quickly add up. In contrast, the subscription fees for Azure cloud services may be higher, but we only have to pay for the costs of implementation, configuration, and training.<br>
+
+
+
+
+
+
+
+
+
+
 
