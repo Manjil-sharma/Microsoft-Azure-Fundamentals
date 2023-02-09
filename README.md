@@ -324,7 +324,7 @@ Today I learned about Capital Expenditure(CAPEX) and Operational Expenditure(OPE
 
 ### Capital Expenditure(CAPEX)
 
-Capital expenditures (CAPEX) in cloud computing refer to the investments made in purchasing hardware, software, and other resources that are required to establish and maintain a cloud infrastructure. These investments are usually made by businesses and organizations to meet their long-term computing needs.<br>
+Capital expenditures (CAPEX) refers to the investments made in purchasing hardware, software, and other resources that are required to establish and maintain a cloud infrastructure. These investments are usually made by businesses and organizations to meet their long-term computing needs.<br>
 
 Examples of capital expenditures in cloud computing include:<br>
 
@@ -333,7 +333,25 @@ Examples of capital expenditures in cloud computing include:<br>
 - Investing in network infrastructure, such as switches, routers, and firewalls.<br>
 - Hiring experts to design, implement, and manage the cloud infrastructure.<br>
 
-Capital expenditures are typically large, one-time expenses that are not incurred on a regular basis. The goal of capital expenditures in cloud computing is to create a scalable, flexible, and highly available computing infrastructure that can support the organization's computing needs for several years to come.
+Capital expenditures are typically large, one-time expenses that are not incurred on a regular basis. The goal of capital expenditures in cloud computing is to create a scalable, flexible, and highly available computing infrastructure that can support the organization's computing needs for several years to come.<br>
+
+
+### Operational Expenditure(OPEX)
+
+Operational expenditures (OPEX) refers to the ongoing costs associated with using and maintaining a cloud infrastructure. These costs are incurred on a regular basis and are separate from capital expenditures, which are one-time investments made in purchasing hardware and software resources.<br>
+
+Examples of operational expenditures in cloud computing include:<br>
+
+- Monthly or annual subscription fees for cloud-based software and services.<br>
+- Pay-as-you-go charges for using computing resources, such as virtual machines and storage.<br>
+- Costs for maintaining and updating the cloud infrastructure, such as hardware upgrades, software patches, and security measures.<br>
+- Labor costs for managing and supporting the cloud infrastructure, including the salaries of IT staff and contractors.<br>
+- 
+Operational expenditures are an important consideration for organizations that are planning to adopt cloud computing, as they can significantly impact the overall cost of using the cloud. To minimize operational expenditures, organizations may choose to adopt cost-saving strategies, such as using reserved instances, implementing cost monitoring tools, and optimizing their use of cloud resources.<br>
+
+
+
+
 
 
 
