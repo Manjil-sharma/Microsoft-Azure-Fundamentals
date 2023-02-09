@@ -312,10 +312,11 @@ The table is a comparison of the Total Cost Of Ownership (TCO) between using an 
 
 
 
-## Day 5 of #Microsoft Azure Fundamentals
+## Day 6 of #Microsoft Azure Fundamentals
+
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned about Capital Expenditure(CAPEX) and Operational Expenditure(OPEX).
+Today I learned about Capital Expenditure(CAPEX) and Operational Expenditure(OPEX) and how they are crucial for making informed decision about cloud computing stategies.
 
 <p align="center">
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/capvsop.png?raw=true">
@@ -346,7 +347,7 @@ Examples of operational expenditures in cloud computing include:<br>
 - Pay-as-you-go charges for using computing resources, such as virtual machines and storage.<br>
 - Costs for maintaining and updating the cloud infrastructure, such as hardware upgrades, software patches, and security measures.<br>
 - Labor costs for managing and supporting the cloud infrastructure, including the salaries of IT staff and contractors.<br>
-- 
+
 Operational expenditures are an important consideration for organizations that are planning to adopt cloud computing, as they can significantly impact the overall cost of using the cloud. To minimize operational expenditures, organizations may choose to adopt cost-saving strategies, such as using reserved instances, implementing cost monitoring tools, and optimizing their use of cloud resources.<br>
 
 
