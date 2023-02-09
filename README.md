@@ -312,6 +312,28 @@ The table is a comparison of the Total Cost Of Ownership (TCO) between using an 
 
 
 
+## Day 5 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Capital Expenditure(CAPEX) and Operational Expenditure(OPEX).
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/capvsop.png?raw=true">
+</p><br>
+
+
+### Capital Expenditure(CAPEX)
+
+Capital expenditures (CAPEX) in cloud computing refer to the investments made in purchasing hardware, software, and other resources that are required to establish and maintain a cloud infrastructure. These investments are usually made by businesses and organizations to meet their long-term computing needs.<br>
+
+Examples of capital expenditures in cloud computing include:<br>
+
+- Purchasing servers, storage devices, and other physical hardware.<br>
+- Buying licenses for cloud-based software and services.<br>
+- Investing in network infrastructure, such as switches, routers, and firewalls.<br>
+- Hiring experts to design, implement, and manage the cloud infrastructure.<br>
+
+Capital expenditures are typically large, one-time expenses that are not incurred on a regular basis. The goal of capital expenditures in cloud computing is to create a scalable, flexible, and highly available computing infrastructure that can support the organization's computing needs for several years to come.
 
 
 
