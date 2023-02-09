@@ -224,7 +224,7 @@ Today, I gained an in-depth understanding of the various deployment models avail
 
 ### Azure's Deployment Models
 
-Azure offers a range of deployment models to support different types of computing scenarios:<br?
+Azure offers a range of deployment models to support different types of computing scenarios:<br>
 
 ### Public Cloud
 
@@ -275,7 +275,7 @@ The Azure Cross-Cloud solution provides organizations with the ability to optimi
 
 
 
-## Day 5 of #Microsoft Azure Fundamentals
+## Day 6 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
 Today I learned about the total cost of ownership (TCO) in cloud computing and how it's an important factor to consider when evaluating cloud solutions.<br>
@@ -312,11 +312,12 @@ The table is a comparison of the Total Cost Of Ownership (TCO) between using an 
 
 
 
-## Day 6 of #Microsoft Azure Fundamentals
+## Day 7 of #Microsoft Azure Fundamentals
 
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned about Capital Expenditure(CAPEX) and Operational Expenditure(OPEX) and how they are crucial for making informed decision about cloud computing stategies.
+Today, I gained understanding about the importance of Capital Expenditure (CAPEX) and Operational Expenditure (OPEX) in making informed decisions regarding cloud computing strategies for an organization.<br>
+
 
 <p align="center">
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/capvsop.png?raw=true">
