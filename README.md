@@ -413,7 +413,7 @@ Overall, high scalability is a critical component of cloud computing, as it enab
                         -Scalling down
                   
       Horizental Scalling -Scalling Out
-                           -Scaling In
+                          -Scaling In
                   
                   
 
