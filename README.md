@@ -358,8 +358,7 @@ Operational expenditures are an important consideration for organizations that a
 ## Day 8 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned more about Cloud Terminologies which are used in Cloud.
-
+Today I learned about two important concepts in cloud computing: high availability and scalability. <br>
 
 ### High Availability
 
