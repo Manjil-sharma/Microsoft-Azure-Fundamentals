@@ -394,7 +394,10 @@ Overall, high scalability is a critical component of cloud computing, as it enab
 
 <p align="center">
    <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/raw/main/Git%20hub/vertical%20scalling.PNG?raw=true">
+  <em>The above picture shows the vertical scaling in which the existing server size is increased.</em>
 </p><br>
+
+
 
 ### Horizontal Scaling 
 
@@ -405,7 +408,9 @@ Overall, high scalability is a critical component of cloud computing, as it enab
 
 <p align="center">
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/horizontal%20scaling.PNG?raw=true">
+ <em> The above picture shows the Horizontal Scalling in which multiple servers are added of same size.</em>
 </p><br>
+
 
 - NOTE<br>
 
