@@ -374,7 +374,11 @@ Overall, high availability is a critical component of cloud computing, as it hel
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/availability.PNG?raw=true">
 </p><br>
 
-Running workload across multiple Availability zones ensures that if 1 or 2 (Availability Zones)AZs become available but the Service/application remains available.<br>
+Running workload across multiple Availability zones ensures that if 1 or 2 (Availability Zones)AZs become unavailable but the Service/application remains available.<br>
+
+### High Scalability
+
+
 
 
 
