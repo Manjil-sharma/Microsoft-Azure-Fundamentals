@@ -355,6 +355,35 @@ Operational expenditures are an important consideration for organizations that a
 
 
 
+## Day 8 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned more about Cloud Terminologies which are used in Cloud.
+
+
+### High Availability
+
+High availability (HA) is a key concept in cloud computing, which refers to the ability of a system, service, or application to remain operational and accessible to users during planned or unplanned downtime or outages. The goal of high availability is to minimize or eliminate system downtime, thereby ensuring that users are able to access and use the system, service, or application as needed.<br>
+
+In cloud computing, high availability can be achieved through various techniques and approaches, including the use of multiple redundant components, such as load balancers, databases, and servers, as well as through the deployment of services across multiple geographic locations, also known as geographic redundancy. Other approaches to high availability in cloud computing include the use of automation and orchestration tools to manage and recover from failures, as well as the use of virtualization and containerization to ensure that services and applications are isolated from each other and can be restarted and rescheduled quickly and easily in the event of a failure.<br>
+
+Overall, high availability is a critical component of cloud computing, as it helps ensure that users are able to access and use cloud-based services and applications with minimal disruption, even in the face of failures and outages.<br>
+
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/availability.PNG?raw=true">
+</p><br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
