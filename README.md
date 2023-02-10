@@ -409,11 +409,11 @@ Overall, high scalability is a critical component of cloud computing, as it enab
 
 - NOTE<br>
 
-      Vertical Scalling -Scalling Up 
-                        -Scalling down
+      Vertical Scalling -Scalling Up (Increasing the memory, GPU, CPU Cores etc of existing servers)
+                        -Scalling down (Decreasing the memory, GPU, CPU Cores etc of existing servers)
                   
-      Horizental Scalling -Scalling Out
-                          -Scaling In
+      Horizental Scalling -Scalling Out (Add more servers of same size)
+                          -Scaling In (Removing more services of same size)
                   
                   
 
