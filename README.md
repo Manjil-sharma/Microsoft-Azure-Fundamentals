@@ -407,6 +407,16 @@ Overall, high scalability is a critical component of cloud computing, as it enab
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/horizontal%20scaling.PNG?raw=true">
 </p><br>
 
+- NOTE<br>
+
+      Vertical Scalling -Scalling Up 
+                        -Scalling down
+                  
+      Horizental Scalling -Scalling Out
+                           -Scaling In
+                  
+                  
+
 
 
 
