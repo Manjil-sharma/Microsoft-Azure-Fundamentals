@@ -378,6 +378,16 @@ Running workload across multiple Availability zones ensures that if 1 or 2 (Avai
 
 ### High Scalability
 
+High scalability is a characteristic of cloud computing that enables systems, applications, and services to handle increasing loads of work by adding more resources as needed. The goal of high scalability is to ensure that the system continues to perform well and meet the demands of its users, even as the number of users, transactions, or data increases.<br>
+
+In cloud computing, scalability is often achieved through the use of elastic computing resources, such as virtual machines, containers, and storage, that can be easily added or removed as needed. This allows organizations to quickly and easily scale their systems and applications to meet changing demands, without the need for significant upfront investments in hardware and infrastructure.<br>
+
+High scalability in cloud computing can also be achieved through the use of automation and orchestration tools, which can help manage and distribute the load across multiple resources, as well as through the use of load balancing and auto-scaling techniques, which can help ensure that resources are added and removed as needed to maintain optimal performance.<br>
+
+Overall, high scalability is a critical component of cloud computing, as it enables organizations to rapidly respond to changes in demand, while also reducing costs and increasing the reliability and performance of their systems, applications, and services.<br>
+
+
+
 
 
 
