@@ -386,8 +386,26 @@ High scalability in cloud computing can also be achieved through the use of auto
 
 Overall, high scalability is a critical component of cloud computing, as it enables organizations to rapidly respond to changes in demand, while also reducing costs and increasing the reliability and performance of their systems, applications, and services.<br>
 
+#### Vertical Scalling
+
+- It means changing the capacity of a resource. For example you could move an application to a larger VM size.<br>
+- It depends on hte avvailability of larger hardware which quickly hits an upper limit.<br>
+- Example  changing capacity of Memory, GPU, Cpu cores etc.<br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/vertical%20scalling.PNG?raw=true">
+</p><br>
+
+### Horizontal Scaling 
+
+- It means adding or removing instance of a resource.<br>
+- The application continues runing without interruption as new resources are provisioned.<br>
+- More flexible in a cloud situation as it allow you to run potentially thousand of VM's to handle the load.<br>
 
 
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/horizontal%20scaling.PNG?raw=true">
+</p><br>
 
 
 
