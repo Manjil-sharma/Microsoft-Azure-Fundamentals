@@ -439,13 +439,16 @@ With high elasticity, cloud computing allows organizations to quickly and easily
 
 ### How automatic increase and decrease happen?
 
-- Azure VM Scale Set
+- Azure VM Scale Set<br>
 
-It automatically increase or decrease in response to demand or a defeined scheduel.
+    It automatically increase or decrease in response to demand or a defeined scheduel.<br>
 
-- SQL Server Streach Database
+- SQL Server Streach Database<br>
 
-Dynamically strech warm and cold transactional data from Microsoft SQL Server 2016 to Microsoft Azure.
+    Dynamically strech warm and cold transactional data from Microsoft SQL Server 2016 to Microsoft Azure.<br>
+    
+    
+    
 
 
 
