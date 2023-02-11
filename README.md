@@ -374,7 +374,7 @@ Overall, high availability is a critical component of cloud computing, as it hel
   <em>Running workload across multiple Availability zones ensures that if 1 or 2 (Availability Zones)AZs become unavailable but the Service/application remains available.</em>
 </p><br>
 
-br>
+
 
 ### High Scalability
 
@@ -418,12 +418,34 @@ Overall, high scalability is a critical component of cloud computing, as it enab
                         -Scalling down (Decreasing the memory, GPU, CPU Cores etc of existing servers)
                   
       Horizental Scalling -Scalling Out (Add more servers of same size)
-                          -Scaling In (Removing more services of same size)
+                          -Scaling In (Removing more services of same size)<br>
                   
                   
 
 
 
+
+## Day 9 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I continued learning about Cloud Terminologies
+
+### High Elasticity
+
+High elasticity in cloud computing refers to the ability of a cloud computing environment to dynamically scale its resources in response to changes in demand. The concept of elasticity is a key characteristic of cloud computing, and it is one of the key benefits that cloud computing provides over traditional IT infrastructure.<br>
+
+With high elasticity, cloud computing allows organizations to quickly and easily add or remove computing resources as needed to accommodate changes in workloads. For example, if a company experiences a sudden increase in traffic to its website, it can quickly add more computing resources to handle the increased load, and then remove those resources once the traffic subsides.<br>
+
+
+### How automatic increase and decrease happen?
+
+- Azure VM Scale Set
+
+It automatically increase or decrease in response to demand or a defeined scheduel.
+
+- SQL Server Streach Database
+
+Dynamically strech warm and cold transactional data from Microsoft SQL Server 2016 to Microsoft Azure.
 
 
 
