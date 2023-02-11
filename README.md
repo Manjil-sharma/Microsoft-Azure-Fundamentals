@@ -428,7 +428,7 @@ Overall, high scalability is a critical component of cloud computing, as it enab
 ## Day 9 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I continued learning about Cloud Terminologies
+Today I continued learning about other concept in cloud computing: Elasticity, Fault Tolorance and Durability.<br>
 
 ### High Elasticity
 
