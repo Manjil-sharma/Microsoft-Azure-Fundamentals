@@ -489,6 +489,40 @@ One of the biggest challenges is guessing the correct capacity for the server. I
 
 Despite these potential drawbacks, a dedicated server provides the customer with a guarantee of security, privacy, and full utilization of the underlying resources. This is especially important for customers who require a high degree of control over their data and processing resources, or who have strict security and privacy requirements.<br>
 
+### Virtual Private Server (VPS)
+
+A Virtual Private Server (VPS) is a hosting solution that allows multiple virtual machines (VMs) to run on a single physical server, which is shared by multiple customers. Each customer has access to a portion of the server's resources, including processing power, memory, and storage. This provides customers with a cost-effective alternative to dedicated servers, as they only pay for a fraction of the server's resources.<br>
+
+he key technology behind VPS is a software layer known as a hypervisor. The hypervisor acts as an intermediary between the physical server and the VMs, allocating and managing the underlying resources to each virtual environment. This allows customers to run their own applications and operating systems on the VPS, as if it were a dedicated server.<br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/vms.PNG?raw=true"><br>
+ 
+</p><br>
+
+However, there are some trade-offs to consider when using a VPS. Just like with dedicated servers, customers must guess the correct capacity for their virtual environment, as overpaying for an underutilized virtual machine can be a waste of resources. Additionally, the guest operating system running on the VPS may impose limitations on the available resources, and multiple applications on a single virtual machine can result in conflicts in resource sharing, potentially leading to reduced performance and stability.<br>
+
+Despite these potential drawbacks, VPS hosting is a popular choice for businesses and individuals who need more control over their hosting environment than what is available with shared hosting, but do not want to incur the costs associated with a dedicated server. <br>
+
+### Containers
+
+Containers are a lightweight and efficient way to run multiple applications on a single server. They are an alternative to virtual machines, and are often used in cloud-based applications and microservices architectures. With containers, multiple applications can run side by side, sharing the same underlying operating system (OS) and resources.<br>
+
+The technology behind containers is Docker, a popular platform for building, shipping, and running applications. Docker uses a software layer called the Docker Daemon to manage and run multiple containers on a single server. The Docker Daemon is responsible for allocating resources to each container, ensuring that they are isolated from each other and can run independently.<br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/container.PNG?raw=true"><br>
+ 
+</p><br>
+
+Containers offer several advantages over virtual machines. First, they allow you to maximize the utilization of available capacity, making them more cost-effective. Secondly, because containers share the same underlying OS, they are more efficient than multiple virtual machines, as each container does not require its own OS.<br>
+
+containers are a flexible and efficient way to run multiple applications on a single server. They offer the benefits of shared resources and isolation, making them a popular choice for cloud-based applications and microservices architectures. With Docker and the Docker Daemon, managing and running containers is easy and cost-effective, making it a popular choice for developers and system administrators alike.<br>
+
+
+
+
+
 
 
 
