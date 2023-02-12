@@ -474,7 +474,7 @@ High durability is a key benefit of cloud computing, as it enables organizations
 ## Day 10 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned about the evolution of  Computing and how it has changed throught the years
+The evolution of computing has progressed from dedicated servers to virtual private servers to containers, and finally to serverless computing, where customers only need to upload their code and specify the amount of memory needed, making it a cost-effective and efficient solution.
 
 ### Dedicated Servers
 
