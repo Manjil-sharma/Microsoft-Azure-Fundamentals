@@ -471,7 +471,23 @@ High durability is a key benefit of cloud computing, as it enables organizations
 
 
 
+## Day 10 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
+Today I learned about the evolution of  Computing and how it has changed throught the years
+
+### Dedicated Servers
+
+A dedicated server is a physical server that is entirely dedicated to the use of a single customer. This type of server provides the customer with complete control and access to all of its underlying resources, including processing power, memory, storage, and network resources. However, there are a few potential drawbacks to consider when using a dedicated server.<br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/dedicated%20server.PNG?raw=true"><br>
+ 
+</p><br>
+
+One of the biggest challenges is guessing the correct capacity for the server. If the customer overestimates their needs, they may end up overpaying for an underutilized server. On the other hand, if the customer underestimates their needs, upgrading the server to meet their growing requirements can be slow and expensive.<br>
+
+Despite these potential drawbacks, a dedicated server provides the customer with a guarantee of security, privacy, and full utilization of the underlying resources. This is especially important for customers who require a high degree of control over their data and processing resources, or who have strict security and privacy requirements.<br>
 
 
 
