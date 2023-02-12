@@ -522,15 +522,19 @@ containers are a flexible and efficient way to run multiple applications on a si
 
 ### Functions
 
-Function as a Service (FaaS) is a type of cloud computing service that allows developers to run their code without the need to manage the underlying infrastructure. In this setup, managed virtual machines run managed containers and the user is only responsible for uploading a piece of code, choosing the amount of memory required, and specifying the duration. This setup, also known as Serverless Compute, is highly cost-effective as the user only pays for the time the code is running and virtual machines only run when there is code to be executed. <br>
-
-However, a side-effect of this setup is the occurrence of Cold Starts, which refers to the initial lag that occurs when a function is executed for the first time after a period of inactivity.<br>
-
+Function as a Service (FaaS) is a type of cloud computing service that allows developers to run their code without the need to manage the underlying infrastructure. In this setup, managed virtual machines run managed containers and the user is only responsible for uploading a piece of code, choosing the amount of memory required, and specifying the duration. This setup, also known as Serverless Compute and  is highly cost-effective as the user only pays for the time the code is running and virtual machines only run when there is code to be executed. <br>
 
 <p align="center">
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/function.PNG?raw=true"><br>
  
 </p><br>
+
+FaaS offers several benefits over traditional cloud computing models. Firstly, it eliminates the need for managing and maintaining infrastructure, freeing up time and resources for developers to focus on building their applications. Secondly, it provides a more flexible and scalable solution, allowing developers to easily increase or decrease the amount of resources used based on the demands of the application. Additionally, FaaS eliminates the need for long-term commitments, as users only pay for the resources they actually use. Finally, it allows for easy integration with other cloud services and APIs, enabling the creation of complex and sophisticated applications.<br>
+
+However, a side-effect of this setup is the occurrence of Cold Starts, which refers to the initial lag that occurs when a function is executed for the first time after a period of inactivity.<br>
+
+
+
 
 
 
