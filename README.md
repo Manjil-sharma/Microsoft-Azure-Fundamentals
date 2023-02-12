@@ -520,6 +520,22 @@ Containers offer several advantages over virtual machines. First, they allow you
 containers are a flexible and efficient way to run multiple applications on a single server. They offer the benefits of shared resources and isolation, making them a popular choice for cloud-based applications and microservices architectures. With Docker and the Docker Daemon, managing and running containers is easy and cost-effective, making it a popular choice for developers and system administrators alike.<br>
 
 
+### Functions
+
+Function as a Service (FaaS) is a type of cloud computing service that allows developers to run their code without the need to manage the underlying infrastructure. In this setup, managed virtual machines run managed containers and the user is only responsible for uploading a piece of code, choosing the amount of memory required, and specifying the duration. This setup, also known as Serverless Compute, is highly cost-effective as the user only pays for the time the code is running and virtual machines only run when there is code to be executed. <br>
+
+However, a side-effect of this setup is the occurrence of Cold Starts, which refers to the initial lag that occurs when a function is executed for the first time after a period of inactivity.<br>
+
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/function.PNG?raw=true"><br>
+ 
+</p><br>
+
+
+
+
+
 
 
 
