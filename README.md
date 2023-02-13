@@ -418,7 +418,7 @@ Overall, high scalability is a critical component of cloud computing, as it enab
                         -Scalling down (Decreasing the memory, GPU, CPU Cores etc of existing servers)
                   
       Horizental Scalling -Scalling Out (Add more servers of same size)
-                          -Scaling In (Removing more services of same size)<br>
+                          -Scaling In (Removing more services of same size)
                   
                   
 
@@ -535,6 +535,34 @@ However, a side-effect of this setup is the occurrence of Cold Starts, which ref
 
 
 
+
+## Day 11 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned abot the concept of Regions, Geography and Paired Regions in Azure.
+
+
+### Region
+
+In Microsoft Azure, a region is a geographical area that contains multiple datacenters. These regions are spread across different locations around the world and are designed to provide high availability and reliability for customers. Azure has 58 regions available across 140 countries.<br>
+
+Each region is an isolated location that has its own network infrastructure, power, and cooling systems. By having multiple regions, customers can choose to store their data and run their applications in a location that meets their regulatory, compliance, or business requirements.<br>
+
+### Geography
+
+n Azure, a geography is a grouping of two or more regions within a geographic proximity, providing a higher level of redundancy and resiliency for your data. By creating resources in different regions within the same geography, you can ensure that your data is stored in separate physical locations, reducing the risk of data loss due to a disaster or a power outage.<br>
+
+For example, Azure has several geographies, such as the United States, Europe, and Asia Pacific. Within each geography, there are multiple regions, such as "West US" or "North Europe." When you create a resource in a geography, your data will be automatically replicated within that geography to ensure high availability and durability.<br>
+
+By choosing the right geography for your resources, you can ensure that your data is stored close to your users, reducing latency and improving performance, while also providing the necessary level of redundancy and resiliency.<br>
+
+### Paired Regions
+
+Paired regions are two regions within the same geography that are connected with low-latency, high-bandwidth links, providing a higher level of resilience for your data. In Azure, paired regions are used for disaster recovery and business continuity scenarios, allowing you to replicate your data and applications to another region in case of a disaster or an outage.<br>
+
+For example, if you have an application running in the "West US" region, you can replicate the data to a paired region, such as "East US." In the event of a disaster or an outage in the "West US" region, you can quickly switch over to the paired region to ensure business continuity.<br>
+
+Paired regions provide you with the flexibility to choose the right disaster recovery strategy for your organization, depending on your specific requirements and the criticality of your applications. With Azure paired regions, you can implement a disaster recovery plan that provides the right level of resilience and protection for your data, while also reducing downtime and maintaining high availability.<br>
 
 
 
