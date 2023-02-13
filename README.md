@@ -550,7 +550,7 @@ Each region is an isolated location that has its own network infrastructure, pow
 
 ### Geography
 
-n Azure, a geography is a grouping of two or more regions within a geographic proximity, providing a higher level of redundancy and resiliency for your data. By creating resources in different regions within the same geography, you can ensure that your data is stored in separate physical locations, reducing the risk of data loss due to a disaster or a power outage.<br>
+In Azure, a geography is a grouping of two or more regions within a geographic proximity, providing a higher level of redundancy and resiliency for your data. By creating resources in different regions within the same geography, you can ensure that your data is stored in separate physical locations, reducing the risk of data loss due to a disaster or a power outage.<br>
 
 For example, Azure has several geographies, such as the United States, Europe, and Asia Pacific. Within each geography, there are multiple regions, such as "West US" or "North Europe." When you create a resource in a geography, your data will be automatically replicated within that geography to ensure high availability and durability.<br>
 
