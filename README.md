@@ -568,6 +568,36 @@ Paired regions provide you with the flexibility to choose the right disaster rec
 
 
 
+## Day 12 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about the types of Region and Service Availability.
+
+
+### Recommended Region
+
+Recommended regions refer to the regions that Microsoft recommends you use for deploying your resources based on factors such as performance, compliance, and availability. These regions are typically geographically closer to your end-users, and may have better performance for certain types of workloads.<br>
+
+For example, if your users are located in the United States, you may want to choose a region in the United States, such as East US or West US. Similarly, if your users are in Europe, you may want to choose a region in Europe, such as West Europe or North Europe.<br>
+
+Additionally, Microsoft may recommend certain regions for specific services or workloads. For example, for Azure Media Services, Microsoft recommends that you use a region that is close to your content origin to minimize data transfer costs and improve performance.<br>
+
+
+### Alternate Region
+
+Alternate regions in Azure refer to backup regions that you can use as a failover option in case your primary or recommended region is unavailable or experiencing issues. These alternate regions are typically located far away from your primary region to provide geographic redundancy.<br>
+
+When configuring a geo-redundant deployment in Azure, you typically select an alternate region that is far enough away from your primary region to minimize the risk of both regions being affected by the same outage. For example, if your primary region is located in North America, you might choose an alternate region in Europe or Asia.<br>
+
+It's important to note that failover to an alternate region typically incurs additional costs, and there may be some downtime during the failover process. It's important to design and test your failover strategy in advance to ensure that you can quickly and efficiently recover in the event of an outage.<br>
+
+
+
+
+
+
+
+
 
 
 
