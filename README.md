@@ -617,8 +617,22 @@ Azure services are grouped into three categories: foundational, mainstream, and 
 
 
 
+## Day 13 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about the ty
 
 
+### Availability
+Availability Zones in Azure are a feature that allows customers to deploy their applications and services in geographically separate data centers within an Azure region. Each availability zone is a physically separate data center with independent power, cooling, and networking, which are connected through high-speed, private fiber optic networks.<br>
+
+By deploying resources across multiple availability zones, customers can protect their applications and services against data center-level failures, such as power outages or network disruptions. Additionally, deploying resources across availability zones can also improve application performance by reducing network latency between different components of the application that are distributed across different availability zones.<br>
+
+The number of Availability Zones (AZs) in an Azure region can vary, but typically an Azure region has at least three Availability Zones.<br>
+
+As of February 2023, there are over 60 Azure regions globally, and most of these regions have three or more Availability Zones. For example, the East US region has three Availability Zones, while the West Europe region has four Availability Zones.<br>
+
+However, some Azure regions have fewer than three Availability Zones. For example, the South Central US region currently has only two Availability Zones. Additionally, some special regions or specialized services may have different numbers of Availability Zones depending on their requirements.<br>
 
 
 
