@@ -633,6 +633,42 @@ The number of Availability Zones (AZs) in an Azure region can vary, but typicall
 However, some Azure regions have fewer than three Availability Zones. For example, the South Central US region currently has only two Availability Zones. Additionally, some special regions or specialized services may have different numbers of Availability Zones depending on their requirements.<br>
 
 
+## Day 14 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about fault domains and update domains, which are used to ensure high availability and resilience of applications. We also discussed the use of availability sets to group virtual machines across fault and update domains to minimize the impact of localized disruptions.<br>
+
+### Fault Domain:
+In Azure, a fault domain is a logical group of underlying hardware resources (such as servers, network switches, and power sources) that share a common physical location, power, and cooling infrastructure. The purpose of creating fault domains is to ensure high availability and resilience of applications and services by minimizing the impact of hardware failures, maintenance events, or other localized disruptions.<br>
+
+Each fault domain represents a separate failure zone, which means that if a hardware component fails in one fault domain, it should not affect the availability of resources in other fault domains. Azure uses fault domains to ensure that virtual machines (VMs) and other resources are spread across different fault domains, so that they can continue to operate even if there is a localized outage or failure.<br>
+
+For example, when you create an availability set in Azure, you can specify the number of fault domains you want to use (usually two or three) and assign your VMs to those fault domains. This ensures that your VMs are running on different physical hardware within the same data center, which reduces the risk of downtime due to hardware failures, maintenance events, or other localized disruptions.<br>
+
+### Update Domain
+
+Update domains in Azure are logical groups of underlying hardware resources, such as servers and network switches, that can be updated or rebooted together during planned maintenance events. They are used to minimize the impact of maintenance events on running workloads and ensure high availability and resilience of applications and services.<br>
+
+When you create an availability set in Azure, you can specify the number of update domains you want to use (usually two or three). When you deploy virtual machines (VMs) in the availability set, Azure automatically distributes them across the update domains to ensure that not all the VMs are updated or rebooted at the same time during maintenance events. This helps to minimize downtime and ensure that the workloads remain available and responsive to users.<br>
+
+
+### Availability Set
+
+Availability set is a logical grouping of two or more virtual machines (VMs) that are deployed across different fault domains and update domains. The purpose of creating an availability set is to ensure high availability and resilience of applications and services by minimizing the impact of localized hardware failures, maintenance events, or other disruptions.<br>
+
+When you create an availability set, Azure distributes your VMs across multiple fault domains and update domains within a single data center. This means that if there is a hardware failure, network outage, or planned maintenance event in one fault domain or update domain, the other fault domain or update domain can still keep the virtual machines and applications running.<br>
+
+
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/av%20set.PNG?raw=true"><br>
+ <em> Each VM in an availability Set is assigned a Fault Domain and Update Domain.</em>
+</p><br>
+
+To be included in an availability set, virtual machines must be in the same virtual network and same region. They can be running any supported operating system and can be of any size or series. When you create an availability set, Azure automatically assigns update domains and fault domains to your VMs.<br>
+
+
+
 
 
 
