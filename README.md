@@ -673,8 +673,8 @@ To be included in an availability set, virtual machines must be in the same virt
 ## Day 15 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned about Azure's Computing Services.
-
+Today I learned about Azure's Computing Services.<br>
+      
 ### Azure Virtual Machines
 
 Azure Virtual Machines is a core computing service offered by Microsoft Azure. It allows you to deploy and run virtual machines in the cloud, which can be used to run a wide range of applications and services. You can choose between Windows and Linux virtual machines, and you have the flexibility to choose your desired operating system, memory, CPU, and storage configurations. These virtual machines run on shared hardware with other customers, which allows for efficient use of resources and cost savings. With Azure Virtual Machines, you can easily scale up or down as needed and pay only for what you use.<br>
