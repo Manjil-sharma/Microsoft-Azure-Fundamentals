@@ -670,6 +670,31 @@ To be included in an availability set, virtual machines must be in the same virt
 
 
 
+## Day 15 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Azure's Computing Services.
+
+### Azure Virtual Machines
+
+Azure Virtual Machines is a core computing service offered by Microsoft Azure. It allows you to deploy and run virtual machines in the cloud, which can be used to run a wide range of applications and services. You can choose between Windows and Linux virtual machines, and you have the flexibility to choose your desired operating system, memory, CPU, and storage configurations. These virtual machines run on shared hardware with other customers, which allows for efficient use of resources and cost savings. With Azure Virtual Machines, you can easily scale up or down as needed and pay only for what you use.<br>
+
+
+### Azure Container Instance
+
+Azure Container Instances (ACI) is a computing service provided by Microsoft Azure that enables you to run containers on the Azure cloud platform, without the need to manage virtual machines or orchestration tools. With ACI, you can quickly and easily run containerized applications in the cloud, and pay only for the exact amount of resources that you consume.<br>
+
+In addition to ACI, Azure also provides Docker as a Service (DaaS), which is built on top of ACI and allows you to run Docker containers in the cloud without having to manage servers or VMs. DaaS provides a fully managed and scalable environment for running Dockerized applications, and is designed for developers and IT teams who want to focus on building and deploying their applications, rather than managing infrastructure.<br>
+
+
+### Azure Kubernetes Services
+
+Azure Kubernetes Service (AKS) is a managed Kubernetes service provided by Microsoft Azure that makes it easy to deploy, manage, and scale containerized applications in the cloud.<br>
+
+AKS allows you to run and manage containerized applications using the open-source Kubernetes (K8s) software, which provides a powerful and flexible platform for deploying and managing containerized applications. With AKS, you can easily deploy and manage Kubernetes clusters, and take advantage of built-in features such as automatic scaling, rolling updates, and self-healing.<br>
+
+AKS provides a fully managed environment for running Kubernetes clusters, which means that you don't have to worry about managing the underlying infrastructure. This makes it easy to focus on building and deploying your applications, rather than managing the infrastructure.<br>
+
 
 
 
