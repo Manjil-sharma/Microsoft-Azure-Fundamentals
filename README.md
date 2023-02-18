@@ -699,4 +699,22 @@ AKS provides a fully managed environment for running Kubernetes clusters, which 
 
 
 
+## Day 16 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I continued to learn about Azure's Computing Services<br>
+
+
+### Azure Service fabric
+
+ It is a Tier-1 Enterprise Containers as a Service is a distributed systems platform that can run in both Azure and on-premises environments. It provides a comprehensive platform for managing and deploying microservices-based applications in a scalable and reliable way.<br>
+
+Tier-1 Enterprise CaaS makes it easy to package, deploy, and manage microservices-based applications, providing developers with a set of tools and APIs to simplify the development process. It supports both stateful and stateless microservices and provides built-in support for automatic scaling, load balancing, and fault tolerance.<br>
+
+Some of the key features of Tier-1 Enterprise CaaS include:
+
+- Distributed architecture: Tier-1 Enterprise CaaS uses a distributed architecture to ensure high availability and fault tolerance for microservices-based applications.<br>
+
+- Seamless integration: Tier-1 Enterprise CaaS integrates seamlessly.<br>
+
 
