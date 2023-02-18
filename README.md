@@ -702,7 +702,7 @@ AKS provides a fully managed environment for running Kubernetes clusters, which 
 ## Day 16 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I continued to learn about Azure's Computing Services<br>
+Today I continued to learn about Azure's Computing Services.<br>
 
 
 ### Azure Service fabric
@@ -716,5 +716,11 @@ Some of the key features of Tier-1 Enterprise CaaS include:
 - Distributed architecture: Tier-1 Enterprise CaaS uses a distributed architecture to ensure high availability and fault tolerance for microservices-based applications.<br>
 
 - Seamless integration: Tier-1 Enterprise CaaS integrates seamlessly.<br>
+
+## Azure Functions
+
+Azure Functions is a serverless computing service provided by Microsoft Azure that allows developers to run code on-demand without having to provision and manage the underlying infrastructure. With Azure Functions, developers can write and deploy small pieces of code, called functions, that are triggered by events such as HTTP requests, timer schedules, and message queue updates.<br>
+
+Azure Functions supports a variety of programming languages, including C#, JavaScript, Python, and Java, and provides pre-built templates and integrations with other Azure services to simplify development. Functions can be deployed and scaled independently, allowing developers to focus on building and deploying specific functions as needed.<br>
 
 
