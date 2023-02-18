@@ -723,4 +723,10 @@ Azure Functions is a serverless computing service provided by Microsoft Azure th
 
 Azure Functions supports a variety of programming languages, including C#, JavaScript, Python, and Java, and provides pre-built templates and integrations with other Azure services to simplify development. Functions can be deployed and scaled independently, allowing developers to focus on building and deploying specific functions as needed.<br>
 
+## Azure Batch
+
+Azure Batch is a service provided by Microsoft Azure that enables developers and IT professionals to run large-scale batch computing jobs in the cloud. With Azure Batch, users can easily schedule, run, and manage large-scale parallel and high-performance computing (HPC) workloads, such as simulations, data processing, rendering, and machine learning tasks.<br>
+
+Azure Batch provides a simple interface for users to submit jobs and manage compute resources, and it automatically scales the compute resources up or down as needed to meet the demand of the workload. Users can also choose to use pre-configured VMs or bring their own VM images to customize the computing environment to their specific needs.<br>
+
 
