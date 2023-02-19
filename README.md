@@ -713,9 +713,9 @@ Tier-1 Enterprise CaaS makes it easy to package, deploy, and manage microservice
 
 Some of the key features of Tier-1 Enterprise CaaS include:
 
-- Distributed architecture: Tier-1 Enterprise CaaS uses a distributed architecture to ensure high availability and fault tolerance for microservices-based applications.<br>
+- Distributed architecture: Tier-1: Enterprise CaaS uses a distributed architecture to ensure high availability and fault tolerance for microservices-based applications.<br>
 
-- Seamless integration: Tier-1 Enterprise CaaS integrates seamlessly.<br>
+- Seamless integration: Tier-1: Enterprise CaaS integrates seamlessly.<br>
 
 ## Azure Functions
 
@@ -728,5 +728,31 @@ Azure Functions supports a variety of programming languages, including C#, JavaS
 Azure Batch is a service provided by Microsoft Azure that enables developers and IT professionals to run large-scale batch computing jobs in the cloud. With Azure Batch, users can easily schedule, run, and manage large-scale parallel and high-performance computing (HPC) workloads, such as simulations, data processing, rendering, and machine learning tasks.<br>
 
 Azure Batch provides a simple interface for users to submit jobs and manage compute resources, and it automatically scales the compute resources up or down as needed to meet the demand of the workload. Users can also choose to use pre-configured VMs or bring their own VM images to customize the computing environment to their specific needs.<br>
+
+
+## Day 16 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Azure Storage Services.<br>
+
+### Azure Blob Storage 
+
+Azure Blob Storage is a cloud-based storage service provided by Microsoft Azure that enables you to store and manage massive amounts of unstructured data. Unstructured data can include text or binary data, such as documents, images, videos, and audio files.<br>
+
+Additionally, Azure Blob Storage provides three different access tiers - Hot, Cool, and Archive - each optimized for storing data with different access patterns and latency requirements.<br>
+
+The Hot access tier is optimized for storing frequently accessed data, providing high-performance access to data at a slightly higher cost than the other tiers. The Cool access tier is optimized for infrequently accessed data that needs to be stored for at least 30 days, offering lower storage costs than the Hot tier. The Archive access tier is optimized for rarely accessed data that needs to be stored for at least 180 days, providing the lowest storage costs but with higher access latency, typically on the order of hours.<br>
+
+Overall, Azure Blob Storage is a highly scalable and cost-effective storage solution for storing and managing large amounts of unstructured data, with flexible access tiers that enable you to optimize storage costs based on your data access patterns.<br>
+
+
+### Azure Disk Storage
+
+Azure Disk Storage is a cloud-based storage service provided by Microsoft Azure that enables you to create and manage virtual disks for your Azure virtual machines (VMs). Azure Disk Storage provides highly available and durable block-level storage that can be used for operating system disks, data disks, and temporary disks.<br>
+
+Azure Disk Storage offers two types of disks: managed disks and unmanaged disks. Managed disks are the recommended and easier-to-use option, where Azure automatically manages disk storage for you. Unmanaged disks provide more control and flexibility but require manual management of disk storage.<br>
+
+Azure Disk Storage integrates seamlessly with Azure virtual machines, enabling you to create and manage disks directly from the Azure portal, Azure CLI, Azure PowerShell, and various Azure SDKs and APIs. Azure Disk Storage also provides various features, such as disk encryption, disk snapshots, and disk replication, which can help you secure and manage your data more effectively.<br>
+
 
 
