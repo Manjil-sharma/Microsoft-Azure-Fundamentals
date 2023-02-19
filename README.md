@@ -730,7 +730,7 @@ Azure Batch is a service provided by Microsoft Azure that enables developers and
 Azure Batch provides a simple interface for users to submit jobs and manage compute resources, and it automatically scales the compute resources up or down as needed to meet the demand of the workload. Users can also choose to use pre-configured VMs or bring their own VM images to customize the computing environment to their specific needs.<br>
 
 
-## Day 16 of #Microsoft Azure Fundamentals
+## Day 17 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
 Today I learned about Azure Storage Services.<br>
@@ -753,6 +753,12 @@ Azure Disk Storage is a cloud-based storage service provided by Microsoft Azure 
 Azure Disk Storage offers two types of disks: managed disks and unmanaged disks. Managed disks are the recommended and easier-to-use option, where Azure automatically manages disk storage for you. Unmanaged disks provide more control and flexibility but require manual management of disk storage.<br>
 
 Azure Disk Storage integrates seamlessly with Azure virtual machines, enabling you to create and manage disks directly from the Azure portal, Azure CLI, Azure PowerShell, and various Azure SDKs and APIs. Azure Disk Storage also provides various features, such as disk encryption, disk snapshots, and disk replication, which can help you secure and manage your data more effectively.<br>
+
+### Azure File Storage
+
+Azure File Storage is a cloud-based file sharing service provided by Microsoft Azure that enables you to create file shares in the cloud and access them from anywhere over the internet. Azure File Storage provides a fully managed file sharing solution that can be used to store and share files with multiple users and applications.<br>
+
+Azure File Storage uses the Server Message Block (SMB) protocol, which allows you to mount file shares from anywhere on your network, as if they were local file shares. This makes it easy to migrate on-premises file shares to the cloud and to integrate Azure File Storage with your existing applications and workflows.<br>
 
 
 
