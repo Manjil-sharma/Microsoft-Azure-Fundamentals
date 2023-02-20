@@ -761,4 +761,25 @@ Azure File Storage is a cloud-based file sharing service provided by Microsoft A
 Azure File Storage uses the Server Message Block (SMB) protocol, which allows you to mount file shares from anywhere on your network, as if they were local file shares. This makes it easy to migrate on-premises file shares to the cloud and to integrate Azure File Storage with your existing applications and workflows.<br>
 
 
+## Day 18 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I continued learning about Azure Storage Services.<br>
+
+
+### Azure Queue Storage
+
+Azure Queue storage is a messaging service provided by Microsoft Azure that allows applications to asynchronously communicate by sending and receiving messages between components or services.<br>
+
+The messages are stored in queues, which are a type of storage that supports a first-in-first-out (FIFO) model. This means that the first message that is added to the queue will be the first message to be retrieved from the queue.<b>
+
+Azure Queue storage is often used for scenarios where you want to ensure that messages are processed in order, such as when processing financial transactions or when performing batch processing of data. It can also be used to enable asynchronous processing of workloads, where the processing of messages can be done at a later time or by a different component or service.<br>
+
+### Azure Table Storage
+
+Azure Table Storage is a NoSQL key-value store provided by Microsoft Azure. It is a service that allows you to store and query large amounts of structured data in the cloud.<br>
+
+With Azure Table Storage, you can store structured data such as JSON documents, entities with properties and values, or even binary data. It provides a key-value store where data is organized into tables, and each row in a table represents an entity.<br>
+
+Azure Table Storage is often used for scenarios where you need to store and retrieve large amounts of structured data, such as for storing customer data, sensor data, or any other type of data that needs to be queried and processed quickly.<br>
 
