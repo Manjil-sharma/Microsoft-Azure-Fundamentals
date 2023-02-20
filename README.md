@@ -783,3 +783,17 @@ With Azure Table Storage, you can store structured data such as JSON documents, 
 
 Azure Table Storage is often used for scenarios where you need to store and retrieve large amounts of structured data, such as for storing customer data, sensor data, or any other type of data that needs to be queried and processed quickly.<br>
 
+  
+  
+### Azure Data Box
+  
+Azure Data Box is a family of physical devices provided by Microsoft Azure that enable secure, fast, and reliable transfer of large amounts of data between on-premises infrastructure and the cloud.<br>
+  
+Azure Data Box devices come in different form factors, including the original Data Box, the Data Box Disk, and the Data Box Heavy, each with varying capacities and performance levels. These devices are designed to simplify the process of transferring large amounts of data to Azure, which can be challenging when using traditional methods such as over-the-wire transfers.<br>
+  
+Azure Data Box is often used for scenarios where you need to transfer large amounts of data to Azure, such as for migration or backup purposes. It is also used for scenarios where the network connectivity is limited or the cost of transferring data over the network is high.<br>
+  
+
+ 
+  
+  
