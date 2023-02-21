@@ -807,12 +807,13 @@ Azure Archive Storage is a storage solution offered by Microsoft Azure that prov
 Azure Archive Storage offers a highly cost-effective storage solution for data that is rarely accessed, but needs to be retained for a long period of time, such as backups, archives, and regulatory compliance data. With Azure Archive Storage, customers can store large amounts of data with predictable costs, making it an ideal choice for organizations that need to store large amounts of data for compliance or regulatory purposes.<br>
 
 The storage is based on the same platform as other Azure storage services, and is accessible through the same APIs and management tools. The data is stored on low-cost, high-density media and can be accessed using the REST APIs, Azure portal, or various Azure storage tools.<br>
+  
+One thing to note is that accessing data stored in Azure Archive Storage can take several hours to retrieve, so it's important to ensure that the data you store in this type of storage is data that you don't need to access frequently. Additionally, there may be additional costs associated with retrieving data from Azure Archive Storage, so it's important to understand the pricing model before using this storage solution.<br>
 
 
 ### Azure Data Lake Storage
 
 Azure Data Lake Storage (ADLS) is a cloud-based storage solution provided by Microsoft Azure. ADLS is designed to provide a scalable and secure platform for storing and analyzing large amounts of data. ADLS supports both structured and unstructured data, and provides a range of features for data processing and analysis, such as built-in analytics, batch and real-time processing, and machine learning.<br>
-
 
 ADLS is built on top of the Azure Blob Storage service, and provides an additional layer of functionality specifically for big data scenarios. This includes the ability to store and process large data sets, as well as support for popular big data processing frameworks such as Hadoop, Spark, and Hive. ADLS also provides features for managing and securing data, such as data encryption, role-based access control, and auditing.<br>
 
