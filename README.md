@@ -817,6 +817,11 @@ Azure Data Lake Storage (ADLS) is a cloud-based storage solution provided by Mic
 ADLS is built on top of the Azure Blob Storage service, and provides an additional layer of functionality specifically for big data scenarios. This includes the ability to store and process large data sets, as well as support for popular big data processing frameworks such as Hadoop, Spark, and Hive. ADLS also provides features for managing and securing data, such as data encryption, role-based access control, and auditing.<br>
 
 
+  There are two tiers of ADLS available:
+  
+- ADLS Gen1: This is the original version of ADLS and is optimized for batch processing workloads. It provides a hierarchical namespace and supports data stored in either file or object formats.<br>
+
+- ADLS Gen2: This is the newer version of ADLS and is designed for both batch and real-time processing workloads. It provides a unified namespace and supports data stored in object format only. ADLS Gen2 also provides a number of additional features, such as support for Azure Blob Storage features, hierarchical access control, and a built-in analytics service called Azure Data Lake Analytics.<br>
 
 
  
