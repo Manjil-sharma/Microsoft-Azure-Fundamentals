@@ -794,6 +794,31 @@ Azure Data Box devices come in different form factors, including the original Da
 Azure Data Box is often used for scenarios where you need to transfer large amounts of data to Azure, such as for migration or backup purposes. It is also used for scenarios where the network connectivity is limited or the cost of transferring data over the network is high.<br>
   
 
+## Day 19 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+
+Today I continued on Azure Storage Serviecs.
+
+### Azure Archive Storage
+
+Azure Archive Storage is a storage solution offered by Microsoft Azure that provides customers with a low-cost, highly durable, and secure cloud-based archival storage service. It is designed for long-term data retention, with data access times of hours to days.<br>
+
+Azure Archive Storage offers a highly cost-effective storage solution for data that is rarely accessed, but needs to be retained for a long period of time, such as backups, archives, and regulatory compliance data. With Azure Archive Storage, customers can store large amounts of data with predictable costs, making it an ideal choice for organizations that need to store large amounts of data for compliance or regulatory purposes.<br>
+
+The storage is based on the same platform as other Azure storage services, and is accessible through the same APIs and management tools. The data is stored on low-cost, high-density media and can be accessed using the REST APIs, Azure portal, or various Azure storage tools.<br>
+
+
+### Azure Data Lake Storage
+
+Azure Data Lake Storage (ADLS) is a cloud-based storage solution provided by Microsoft Azure. ADLS is designed to provide a scalable and secure platform for storing and analyzing large amounts of data. ADLS supports both structured and unstructured data, and provides a range of features for data processing and analysis, such as built-in analytics, batch and real-time processing, and machine learning.<br>
+
+
+ADLS is built on top of the Azure Blob Storage service, and provides an additional layer of functionality specifically for big data scenarios. This includes the ability to store and process large data sets, as well as support for popular big data processing frameworks such as Hadoop, Spark, and Hive. ADLS also provides features for managing and securing data, such as data encryption, role-based access control, and auditing.<br>
+
+
+
+
  
   
   
