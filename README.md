@@ -825,6 +825,20 @@ ADLS is built on top of the Azure Blob Storage service, and provides an addition
 - ADLS Gen2: This is the newer version of ADLS and is designed for both batch and real-time processing workloads. It provides a unified namespace and supports data stored in object format only. ADLS Gen2 also provides a number of additional features, such as support for Azure Blob Storage features, hierarchical access control, and a built-in analytics service called Azure Data Lake Analytics.<br>
 
 
+## Day 20 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Azure's Database Services.
+
+### Azure Cosmos DB
+
+Azure Cosmos DB is a globally distributed, multi-model database service provided by Microsoft as part of the Azure cloud platform. It is designed to provide high scalability, low latency, and global distribution of data.<br>
+
+Azure Cosmos DB supports various data models, including document, key-value, graph, and column-family. It also provides multiple APIs, such as SQL, MongoDB, Cassandra, Gremlin, and Azure Table, allowing developers to access and manipulate data in their preferred programming language.<br>
+
+
+
+
  
   
   
