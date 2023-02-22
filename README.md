@@ -847,7 +847,15 @@ Azure SQL Database is designed to be highly scalable and available, with built-i
 Azure SQL Database offers several pricing tiers, each with different levels of performance, features, and storage capacity. It also offers the ability to scale up or down based on application needs, allowing developers to dynamically adjust the resources allocated to their databases as demand changes.<br>
   
   
-
+### Azure Database For MYSQL/PSQL/Maria DB
+  
+Azure Database for MySQL, PostgreSQL, and MariaDB are fully managed relational database services provided by Microsoft on its Azure cloud computing platform. Each service is based on the respective open source database management system and provides a range of features for managing, storing, and querying relational data in the cloud.<br>
+  
+Like Azure SQL Database, each of these services is designed to be highly scalable and available, with built-in high availability and disaster recovery features. They can be used for a wide range of database workloads, from small single-database applications to large, complex enterprise applications.<br>
+  
+Azure Database for MySQL, PostgreSQL, and MariaDB also provide built-in security features such as data encryption, firewall protection, and advanced threat protection. They offer several pricing tiers, each with different levels of performance, features, and storage capacity. They also offer the ability to scale up or down based on application needs, allowing developers to dynamically adjust the resources allocated to their databases as demand changes.<br>
+  
+  
 
  
   
