@@ -836,7 +836,17 @@ Azure Cosmos DB is a globally distributed, multi-model database service provided
 
 Azure Cosmos DB supports various data models, including document, key-value, graph, and column-family. It also provides multiple APIs, such as SQL, MongoDB, Cassandra, Gremlin, and Azure Table, allowing developers to access and manipulate data in their preferred programming language.<br>
 
-
+Cosmos DB is designed for high performance and low latency, with data replication across multiple Azure regions and automatic failover in the event of a region-wide outage. It also provides features like configurable consistency levels, which allow developers to trade off between strong consistency and high availability, depending on their application requirements.<br>
+  
+### Azure SQL Database
+  
+Azure SQL Database is a fully managed relational database service provided by Microsoft on its Azure cloud computing platform. It is based on Microsoft SQL Server, and provides a range of features for managing, storing, and querying relational data in the cloud.<br>
+  
+Azure SQL Database is designed to be highly scalable and available, with built-in high availability and disaster recovery features. It can be used for a wide range of database workloads, from small single-database applications to large, complex enterprise applications. The service supports the full range of SQL Server features, including Transact-SQL, stored procedures, and triggers.<br>
+  
+Azure SQL Database offers several pricing tiers, each with different levels of performance, features, and storage capacity. It also offers the ability to scale up or down based on application needs, allowing developers to dynamically adjust the resources allocated to their databases as demand changes.<br>
+  
+  
 
 
  
