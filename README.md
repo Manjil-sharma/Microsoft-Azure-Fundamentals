@@ -771,7 +771,7 @@ Today I continued learning about Azure Storage Services.<br>
 
 Azure Queue storage is a messaging service provided by Microsoft Azure that allows applications to asynchronously communicate by sending and receiving messages between components or services.<br>
 
-The messages are stored in queues, which are a type of storage that supports a first-in-first-out (FIFO) model. This means that the first message that is added to the queue will be the first message to be retrieved from the queue.<b>
+The messages are stored in queues, which are a type of storage that supports a first-in-first-out (FIFO) model. This means that the first message that is added to the queue will be the first message to be retrieved from the queue.<br>
 
 Azure Queue storage is often used for scenarios where you want to ensure that messages are processed in order, such as when processing financial transactions or when performing batch processing of data. It can also be used to enable asynchronous processing of workloads, where the processing of messages can be done at a later time or by a different component or service.<br>
 
@@ -857,6 +857,38 @@ Azure Database for MySQL, PostgreSQL, and MariaDB also provide built-in security
   
   
 
- 
+ ## Day 20 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+
+Today I continued my learning on Azure's Database Services.<br>
+
+### SQL Server on VMs
+
+Azure SQL Server on VMs (Virtual Machines) is a database service offered by Microsoft Azure that enables users to create and manage SQL Server instances on Azure virtual machines. With this service, users can run SQL Server workloads on VMs with the same capabilities and features of an on-premises SQL Server deployment.<br>
+
+Azure SQL Server on VMs provides users with more control over the SQL Server instance, including the choice of operating system, virtual machine size, and storage configuration. This service also provides support for features such as high availability, backup and restore, and performance optimization.<br>
+
+However, it is worth noting that Azure SQL Server on VMs requires more management and maintenance than other Azure database services, such as Azure SQL Database or Azure Database for PostgreSQL. Users are responsible for patching and maintaining the underlying operating system and SQL Server instances. This may require more technical expertise and resources than other database services.<br>
+
+### Azure Synapse Analytics (Azure SQL Data Warehouse)
+
+Azure Synapse Analytics is a cloud-based analytics service. It is designed to help organizations analyze large amounts of data, derive insights from it, and take informed actions based on those insights. Azure Synapse Analytics integrates big data and data warehousing technologies into a single platform, making it easier for organizations to process and analyze large volumes of data from a variety of sources.<br>
+
+One of the key benefits of Azure Synapse Analytics is its ability to provide a unified experience for data preparation, management, and analysis. It allows users to easily integrate data from a variety of sources, including structured and unstructured data, and provides tools for data preparation, data transformation, and data modeling.<br>
+
+Azure Synapse Analytics also provides advanced analytics capabilities, such as machine learning, AI, and cognitive services. This enables users to derive insights from their data and make predictions based on that data.<br>
+
+
+### Azure Database Migration Service
+
+Azure Database Migration Service is a fully managed service offered by Microsoft Azure that enables organizations to migrate their databases to Azure with minimal downtime and risk. It provides a streamlined and automated process for migrating on-premises databases to Azure, as well as for migrating between Azure-based databases.<br>
+
+One of the key benefits of the Azure Database Migration Service is its ability to perform online migrations with minimal downtime. It uses techniques such as log shipping and transactional replication to keep the source database synchronized with the target database during the migration process, which minimizes the amount of downtime required.<br>
+
+The Azure Database Migration Service supports a wide range of database platforms, including SQL Server, MySQL, PostgreSQL, Oracle, and MongoDB. It also supports migration to Azure database services such as Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL, and Azure Cosmos DB.<br>
+
+
+
   
   
