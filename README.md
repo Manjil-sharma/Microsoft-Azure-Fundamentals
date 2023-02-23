@@ -857,7 +857,7 @@ Azure Database for MySQL, PostgreSQL, and MariaDB also provide built-in security
   
   
 
- ## Day 20 of #Microsoft Azure Fundamentals
+ ## Day 21 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
 
