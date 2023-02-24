@@ -913,6 +913,14 @@ It provides several important benefits for developers and organizations, includi
 
 
 
+### Azure Table Storage
+
+Azure Table Storage is a NoSQL cloud-based data storage service provided by Microsoft Azure. It allows developers to store structured, non-relational data at scale in the cloud, and provides features that enable easy access to the stored data.<br>
+
+Azure Table Storage is a schema-less storage service, meaning that it does not require a predefined schema to store data. Developers can store data with varying structures, and can add or remove attributes to the data on the fly.<br>
+
+The service stores data in tables, which are similar to database tables in a traditional relational database system. Each table consists of a set of entities, which are individual items that can be queried, added, updated, or deleted. Entities are identified by a primary key, which can consist of up to four attributes.<br>
+
 
 
 
