@@ -923,7 +923,7 @@ The service stores data in tables, which are similar to database tables in a tra
 
 
 
-## Day 22 of #Microsoft Azure Fundamentals
+## Day 23 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
 Today I started to learn about Application Integration Services.
@@ -939,6 +939,12 @@ Some of the key services offered by Azure Application Integration Services inclu
 Azure Notification Hubs is a scalable mobile push notification engine for sending personalized push notifications to mobile devices and web applications. It is a fully managed, multi-platform, and highly available service provided by Microsoft Azure that simplifies the process of sending push notifications across different platforms, including iOS, Android, Windows, and Amazon devices, as well as web browsers.<br>
 
 With Azure Notification Hubs, developers can easily send push notifications to millions of devices with just a few lines of code, without worrying about the underlying infrastructure. It provides a single platform for sending push notifications, which helps reduce the complexity of managing different platforms and devices.<br>
+
+### Azure API Apps
+
+Azure API Apps is a service provided by Microsoft Azure that enables developers to create, host, and consume APIs in the cloud. It is a fully managed, scalable, and secure platform that simplifies the process of building and deploying APIs, allowing developers to focus on creating great applications instead of managing infrastructure.<br>
+
+Azure API Apps supports a wide range of programming languages and frameworks, including .NET, Java, Node.js, PHP, and Python, making it easy to develop APIs using the tools and languages that you are most familiar with.<br>
 
 
 
