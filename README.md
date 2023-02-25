@@ -923,6 +923,23 @@ The service stores data in tables, which are similar to database tables in a tra
 
 
 
+## Day 22 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I started to learn about Application Integration Services.
+
+### Application Integration Services
+
+Azure Application Integration Services is a collection of services offered by Microsoft Azure that enables businesses to connect different applications, data sources, and services within the cloud and on-premises environments. These services facilitate seamless data flow and communication between disparate systems, allowing businesses to streamline their operations and improve their overall efficiency.<br>
+
+Some of the key services offered by Azure Application Integration Services include:<br>
+
+### Azure Notification Hub
+
+Azure Notification Hubs is a scalable mobile push notification engine for sending personalized push notifications to mobile devices and web applications. It is a fully managed, multi-platform, and highly available service provided by Microsoft Azure that simplifies the process of sending push notifications across different platforms, including iOS, Android, Windows, and Amazon devices, as well as web browsers.<br>
+
+With Azure Notification Hubs, developers can easily send push notifications to millions of devices with just a few lines of code, without worrying about the underlying infrastructure. It provides a single platform for sending push notifications, which helps reduce the complexity of managing different platforms and devices.<br>
+
 
 
 
