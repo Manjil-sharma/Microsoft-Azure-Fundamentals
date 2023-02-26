@@ -948,5 +948,25 @@ Azure API Apps supports a wide range of programming languages and frameworks, in
 
 
 
+## Day 24 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I continued my learnings on Azure's Application Integration Services.
+
+### Azure Service BUS
+Azure Service Bus is a cloud-based messaging service that enables reliable communication between applications and services. It allows developers to build distributed systems that can communicate with each other regardless of the underlying platform or programming language.<br>
+
+Azure Service Bus provides features such as message queuing, publish/subscribe messaging, and session-based messaging. It allows messages to be sent between different applications or services asynchronously, providing a decoupled architecture that can improve the scalability, reliability, and flexibility of an application.<br>
+
+Azure Service Bus also provides enterprise-level features such as message batching, dead-lettering, and message expiration, making it a suitable choice for high-volume, mission-critical applications.<br>
+
+### Azure Stream Analytics
+
+Azure Stream Analytics is a cloud-based real-time data analytics service provided by Microsoft Azure. It enables developers to analyze and process large volumes of streaming data from a wide range of sources in real-time, such as IoT devices, social media, and sensors.<br>
+
+Azure Stream Analytics allows developers to build complex data processing pipelines using a simple SQL-like language. It provides features such as windowing, filtering, aggregation, and transformation of data streams. These features can be used to extract insights, detect anomalies, and trigger alerts in real-time.<br>
+
+Azure Stream Analytics supports integration with a variety of data sources and destinations, including Azure Event Hubs, Azure Blob Storage, Azure Data Lake Storage, and Azure SQL Database. It also provides built-in support for machine learning models and other advanced analytics capabilities, enabling developers to build intelligent applications that can adapt and learn from real-time data<br>
+
 
   
