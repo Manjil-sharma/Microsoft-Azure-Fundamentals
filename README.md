@@ -966,7 +966,7 @@ Azure Stream Analytics is a cloud-based real-time data analytics service provide
 
 Azure Stream Analytics allows developers to build complex data processing pipelines using a simple SQL-like language. It provides features such as windowing, filtering, aggregation, and transformation of data streams. These features can be used to extract insights, detect anomalies, and trigger alerts in real-time.<br>
 
-Azure Stream Analytics supports integration with a variety of data sources and destinations, including Azure Event Hubs, Azure Blob Storage, Azure Data Lake Storage, and Azure SQL Database. It also provides built-in support for machine learning models and other advanced analytics capabilities, enabling developers to build intelligent applications that can adapt and learn from real-time data<br>
+Azure Stream Analytics supports integration with a variety of data sources and destinations, including Azure Event Hubs, Azure Blob Storage, Azure Data Lake Storage, and Azure SQL Database. It also provides built-in support for machine learning models and other advanced analytics capabilities, enabling developers to build intelligent applications that can adapt and learn from real-time data.<br>
 
 
   
