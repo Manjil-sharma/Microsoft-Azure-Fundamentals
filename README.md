@@ -969,4 +969,35 @@ Azure Stream Analytics allows developers to build complex data processing pipeli
 Azure Stream Analytics supports integration with a variety of data sources and destinations, including Azure Event Hubs, Azure Blob Storage, Azure Data Lake Storage, and Azure SQL Database. It also provides built-in support for machine learning models and other advanced analytics capabilities, enabling developers to build intelligent applications that can adapt and learn from real-time data.<br>
 
 
+## Day 25 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I continued my learnings on Azure's Application Integration Services.
+
+### Azure Logic Apps
+
+Azure Logic Apps are a cloud-based service that allows you to design and build workflows that integrate with various Azure and non-Azure services. They are designed to help businesses automate repetitive tasks and simplify complex business processes. Logic Apps use a visual designer that allows you to create workflows visually, without the need for coding.<br>
+
+Logic Apps allow you to create workflows that can be triggered by events or schedules, and they can perform a wide range of tasks, such as sending emails, creating calendar events, updating databases, and more. You can use Logic Apps to integrate with a variety of services, such as Office 365, Salesforce, Dynamics 365, and other third-party applications.<br>
+
+### Azure API Management
+
+Azure API Management is a cloud-based service provided by Microsoft Azure that allows organizations to create, manage, secure, and publish APIs (Application Programming Interfaces) for internal and external consumption. APIs are a set of protocols, routines, and tools for building software applications, and API management is the process of designing, publishing, documenting, and analyzing APIs.<br>
+
+With Azure API Management, you can:<br>
+
+- Publish and manage APIs: You can publish your APIs with Azure API Management to make them available for internal or external consumption. You can also manage access to your APIs by setting up security policies, rate limits, and quotas.<br>
+
+- Monitor and analyze API usage: Azure API Management provides detailed analytics and metrics to help you monitor and analyze API usage. You can use these insights to optimize your APIs and improve their performance.<br>
+
+- Scale APIs: You can scale your APIs up or down based on demand. Azure API Management provides auto-scaling capabilities that can automatically adjust the capacity of your APIs based on usage.<br>
+
+- Developer portal: Azure API Management also includes a developer portal where developers can discover, learn, and consume your APIs. The developer portal provides comprehensive API documentation, sample code, and interactive testing tools.<br>
+
+
+
+
+
+
+
   
