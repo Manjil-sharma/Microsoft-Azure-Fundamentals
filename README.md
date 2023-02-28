@@ -995,6 +995,31 @@ With Azure API Management, you can:<br>
 - Developer portal: Azure API Management also includes a developer portal where developers can discover, learn, and consume your APIs. The developer portal provides comprehensive API documentation, sample code, and interactive testing tools.<br>
 
 
+## Day 26 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+
+Today I continued my learnings on Azure's Application Integration Services and started learning about Developer and Mobile Tools.<br>
+
+### Azure Queue Storage
+
+
+Azure Queue Storage is a message queuing service provided by Microsoft Azure that enables you to store and process large numbers of messages that can be accessed by multiple clients. It is a scalable and cost-effective solution for asynchronous messaging between applications and services, and is often used in scenarios where you need to decouple your application components or scale them independently.<br>
+
+In Azure Queue Storage, messages are stored in a queue and processed by one or more consumers. The messages can be up to 64 KB in size and can contain any type of data. The queue itself can hold an unlimited number of messages, and messages are automatically deleted from the queue once they are processed.<br>
+
+### Developer and Mobile Tools
+
+### Azure Single IR Service
+
+Azure SignalR Service is a fully-managed cloud service provided by Microsoft Azure that simplifies the process of adding real-time functionality to web applications. It provides an easy way to integrate real-time web features such as instant messaging, push notifications, and live updates into your web applications.<br>
+
+Azure SignalR Service uses the SignalR library, which is an open-source library for adding real-time web functionality to applications. It allows you to broadcast messages to multiple clients simultaneously, without the need for the clients to constantly poll the server for updates.<br>
+
+With Azure SignalR Service, you can easily scale your real-time web applications by automatically provisioning and managing the infrastructure required to handle high volumes of traffic. This service provides automatic scaling and load balancing to ensure that your applications are always responsive and available.<br>
+
+
+
 
 
 
