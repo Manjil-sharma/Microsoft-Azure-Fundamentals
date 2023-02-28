@@ -1008,7 +1008,7 @@ Azure Queue Storage is a message queuing service provided by Microsoft Azure tha
 
 In Azure Queue Storage, messages are stored in a queue and processed by one or more consumers. The messages can be up to 64 KB in size and can contain any type of data. The queue itself can hold an unlimited number of messages, and messages are automatically deleted from the queue once they are processed.<br>
 
-### Developer and Mobile Tools
+## Developer and Mobile Tools
 
 ### Azure Single IR Service
 
