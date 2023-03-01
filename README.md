@@ -1022,7 +1022,35 @@ With Azure SignalR Service, you can easily scale your real-time web applications
 
 
 
+## Day 27 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
 
+Today I continued learning on Azure's Developer and Mobile Tools.<br>
 
+### Azure App Service
+
+Azure App Service is a fully managed Platform as a Service (PaaS) that enables developers to quickly build, deploy, and scale web and mobile applications. It supports multiple programming languages and frameworks, including .NET, Java, Node.js, PHP, Python, and Ruby.<br>
+
+With Azure App Service, developers can easily deploy web and mobile applications to the cloud, without worrying about the underlying infrastructure, operating system, or runtime. It also provides built-in DevOps capabilities, including continuous deployment, automated builds, and integration with popular source control systems like GitHub and Azure DevOps.<br>
+
+Azure App Service offers various pricing tiers and scaling options to meet the needs of different types of applications and workloads. It also provides integration with other Azure services, including Azure Active Directory, Azure SQL Database, Azure Cosmos DB, and Azure Functions, to name a few.<br>
+
+### Visual studio
+
+Azure Visual Studio is a set of tools and services provided by Microsoft Azure to enable developers to build and deploy applications in the cloud using Visual Studio IDE. With Azure Visual Studio, developers can leverage the powerful development features of Visual Studio to create, test, and deploy cloud-based applications seamlessly.<br>
+
+Azure Visual Studio provides a rich set of features, including:<br>
+
+- Integration with Azure DevOps - This enables developers to automate their software delivery pipeline from code commit to deployment using a single, integrated workflow.<br>
+
+- Azure Resource Manager - This allows developers to define and deploy infrastructure resources for their applications using JSON templates.<br>
+
+- Azure App Service - This provides a fully-managed PaaS offering for deploying and running web, mobile, and API applications in the cloud.<br>
+
+- Azure SQL Database - This provides a fully-managed relational database service that allows developers to store and manage application data in the cloud.<br>
+
+- Azure Functions - This provides a serverless computing service that allows developers to run event-driven, serverless applications in the cloud.<br>
+
+- Azure Storage - This provides a scalable and secure cloud storage solution for storing and managing application data, including files, blobs, and queues.<br>
   
