@@ -1060,7 +1060,7 @@ Azure Visual Studio provides a rich set of features, including:<br>
 ## Day 28 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-I continued my learning journey on Azure Developer and Mobile Tools.
+I continued my learning journey on Azure Developer and Mobile Tools and started learning about Azure Devops Services.
 
 ### Xamarin
 
@@ -1070,3 +1070,13 @@ Xamarin enables developers to share an average of 90% of their application acros
 
 Xamarin applications can be written on PC or Mac and compile into native application packages, such as an .apk file on Android, or an .ipa file on iOS.<br>
 
+
+### Azure DevOps Services
+
+Azure DevOps Services is a cloud-based platform that provides a set of tools and services for software development teams to plan, build, test, and deploy software. It includes features such as version control, continuous integration and delivery, project management, and collaboration tools to help teams work together efficiently and deliver high-quality software faster.<br>
+
+### Azure Devops
+
+Azure DevOps is a comprehensive platform that encompasses a range of DevOps services provided by Microsoft. These services include Azure Boards for project management, Azure Repos for version control, Azure Pipelines for continuous integration and delivery, Azure Test Plans for testing, and Azure Artifacts for package management.<br>
+
+By providing a complete set of DevOps services, Azure DevOps enables software development teams to streamline their workflows, collaborate more effectively, and deliver high-quality software faster. Azure DevOps services are integrated with each other, making it easy for developers to manage the entire software development lifecycle from a single platform.<br>
