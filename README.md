@@ -1054,3 +1054,19 @@ Azure Visual Studio provides a rich set of features, including:<br>
 
 - Azure Storage - This provides a scalable and secure cloud storage solution for storing and managing application data, including files, blobs, and queues.<br>
   
+
+
+
+## Day 28 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+I continued my learning journey on Azure Developer and Mobile Tools.
+
+### Xamarin
+
+Xamarin is an open-source platform for building modern and performant applications for iOS, Android, and Windows with .NET. Xamarin is an abstraction layer that manages communication of shared code with underlying platform code. Xamarin runs in a managed environment that provides conveniences such as memory allocation and garbage collection.<br>
+
+Xamarin enables developers to share an average of 90% of their application across platforms. This pattern allows developers to write all of their business logic in a single language (or reuse existing application code) but achieve native performance, look, and feel on each platform.<br>
+
+Xamarin applications can be written on PC or Mac and compile into native application packages, such as an .apk file on Android, or an .ipa file on iOS.<br>
+
