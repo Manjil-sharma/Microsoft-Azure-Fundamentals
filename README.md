@@ -1080,3 +1080,60 @@ Azure DevOps Services is a cloud-based platform that provides a set of tools and
 Azure DevOps is a comprehensive platform that encompasses a range of DevOps services provided by Microsoft. These services include Azure Boards for project management, Azure Repos for version control, Azure Pipelines for continuous integration and delivery, Azure Test Plans for testing, and Azure Artifacts for package management.<br>
 
 By providing a complete set of DevOps services, Azure DevOps enables software development teams to streamline their workflows, collaborate more effectively, and deliver high-quality software faster. Azure DevOps services are integrated with each other, making it easy for developers to manage the entire software development lifecycle from a single platform.<br>
+
+
+
+
+## Day 29 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+
+Today I continued my journey on Azure DevOps Services.
+
+### Azure Boards
+
+Azure Boards is a project management and work tracking tool provided by Microsoft Azure. It is used to manage work items such as features, bugs, and tasks across an entire software development project.<br>
+
+- Features: Azure Boards offers a wide range of features such as customizable dashboards, backlog management, agile tools, sprint planning, and reporting.<br>
+
+- Integration: Azure Boards integrates seamlessly with other Azure services such as Azure Repos, Azure Test Plans, and Azure DevOps Services. It also integrates with popular third-party tools such as GitHub, Jenkins, and Slack.<br>
+
+- Collaboration: Azure Boards enables collaboration among team members by providing real-time updates, notifications, and discussions. It also allows stakeholders to track progress and provide feedback.<br>
+
+- Customization: Azure Boards can be customized to fit the unique needs of any project. Users can create custom work item types, workflows, and fields.<br>
+
+- Importance: Azure Boards is important because it provides a centralized platform for managing work items and tracking project progress. It helps teams stay organized, collaborate effectively, and deliver high-quality software products on time and within budget.<br>
+
+
+### Azure Pipelines
+
+
+Azure Pipelines is a cloud-based continuous integration and continuous delivery (CI/CD) service provided by Microsoft Azure. It is used to build, test, and deploy software applications to various platforms including Windows, Linux, and macOS. Here's some information about Azure Pipelines:<br>
+
+- Usage: Azure Pipelines is used to automate the build and release processes for software applications. It allows developers to create pipelines that automatically build and test code changes, and deploy them to different environments such as production, staging, and development.<br>
+
+- How it works: Azure Pipelines uses a YAML-based syntax to define the steps required to build, test, and deploy an application. The pipeline can be triggered by changes to the source code, or manually triggered by a developer. Once triggered, the pipeline executes the defined steps and provides detailed feedback on the results.<br>
+
+- Benefits: Azure Pipelines offers several benefits including faster release cycles, improved quality of code, increased reliability, and reduced manual effort. It also supports multiple languages and platforms, making it easy for developers to integrate it into their existing workflows.<br>
+
+- Integration: Azure Pipelines integrates seamlessly with other Azure services such as Azure Repos, Azure Artifacts, and Azure Test Plans. It also supports integration with third-party tools such as GitHub, Bitbucket, and Jira.<br>
+
+- Pricing: Azure Pipelines offers a flexible pricing model with a free tier for open-source projects and a pay-as-you-go model for private projects.<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
