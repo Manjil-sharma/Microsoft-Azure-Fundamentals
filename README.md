@@ -1124,7 +1124,38 @@ Azure Pipelines is a cloud-based continuous integration and continuous delivery 
 
 
 
+## Day 30 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
+
+I continued learning about Azure DevOps Services.
+
+
+### Azure Repos
+
+Azure Repos is a version control system (VCS) developed by Microsoft as part of the Azure DevOps suite of tools. It allows users to manage and store their source code and related artifacts, such as documentation and testing scripts, in a centralized repository.<br>
+
+Azure Repos supports both centralized and distributed version control models, which means that users can choose to use either a traditional centralized model or a more modern distributed model depending on their needs.<br>
+
+Azure Repos is commonly used by software development teams to collaborate on code, manage changes, and track project progress. It provides features such as branching and merging, code reviews, and pull requests, which help ensure code quality and improve team collaboration.<br>
+
+
+### Azure Test Plans
+
+Azure Test Plans is a testing solution provided by Microsoft as part of the Azure DevOps suite of tools. It is used by software development teams to plan, manage, and execute tests, as well as track and report on test results.<br>
+
+Azure Test Plans provides a centralized repository for test cases and test suites and allows teams to collaborate on test planning and execution. It supports both manual and automated testing and integrates with popular testing frameworks like Selenium, Appium, and Visual Studio Test.<br>
+
+
+Azure Test Plans is used by software development teams to:<br>
+
+1.Plan and manage test cases and test suites
+2.Assign test cases to specific team members or iterations
+3.Execute tests manually or automatically
+4.Track and report on test results
+5.Analyze code coverage and quality metrics
+6.Integrate testing into the software development process
+7.Improve the quality of software products by ensuring that all components are thoroughly tested.
 
 
 
