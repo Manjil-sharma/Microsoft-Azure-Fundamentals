@@ -1149,13 +1149,15 @@ Azure Test Plans provides a centralized repository for test cases and test suite
 
 Azure Test Plans is used by software development teams to:<br>
 
-1.Plan and manage test cases and test suites
-2.Assign test cases to specific team members or iterations
-3.Execute tests manually or automatically
-4.Track and report on test results
-5.Analyze code coverage and quality metrics
-6.Integrate testing into the software development process
-7.Improve the quality of software products by ensuring that all components are thoroughly tested.
+1.Plan and manage test cases and test suites<br>
+2.Assign test cases to specific team members or iterations<br>
+3.Execute tests manually or automatically<br>
+4.Track and report on test results<br>
+5.Analyze code coverage and quality metrics<br>
+6.Integrate testing into the software development process<br>
+7.Improve the quality of software products by ensuring that all components are thoroughly tested.<br>
+
+
 
 
 
