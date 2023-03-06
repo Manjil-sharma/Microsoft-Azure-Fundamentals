@@ -1185,7 +1185,34 @@ One of the main benefits of using Azure DevTest Labs is that it allows organizat
 
 
 
+## Day 32 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
+Today I learned about Infrastructure as a code and Azure Resource Manager.
+
+### Infrastructure As a Code(IAC)
+Infrastructure as code (IaC) refers to the practice of managing and provisioning computing infrastructure (such as servers, virtual machines, networks, and storage) using machine-readable definition files, rather than manually configuring them. In other words, it involves treating infrastructure as code that can be version controlled, tested, and automated.<br>
+
+It is commonly used in cloud environments to manage and automate the provisioning and configuration of infrastructure resources, such as virtual machines, containers, and load balancers.<br>
+
+There are several benefits to using IaC, including:<br>
+
+- Consistency and repeatability: IaC ensures that infrastructure resources are configured and provisioned in a consistent and repeatable way, reducing the likelihood of errors and improving the reliability of infrastructure.
+
+- Version control: IaC allows infrastructure configurations to be version controlled and audited, enabling teams to easily track changes, roll back to previous configurations, and collaborate more effectively.
+
+- Automation: IaC enables the automation of infrastructure management tasks, reducing the need for manual intervention and improving efficiency.
+
+- Scalability: IaC makes it easier to provision and scale infrastructure resources, enabling teams to quickly respond to changes in demand or workload.
+
+
+### Azure Resource Manager(ARM)
+
+Azure Resource Manager is a management framework provided by Microsoft Azure that allows users to provision and manage resources within Azure. It provides a unified approach to resource management across all Azure services and enables users to create, update, and delete resources as a single unit, called a Resource Group.<br>
+
+Azure Resource Manager is used in Azure environments to manage and deploy resources such as virtual machines, storage accounts, networks, and other Azure services. It also provides features such as role-based access control, tagging, and templates for deploying and managing resources at scale.<br>
+
+Azure Resource Manager is often used in conjunction with Infrastructure as Code (IaC) tools such as Azure Resource Manager templates, PowerShell scripts, or Azure CLI to provision and manage Azure resources using code. Azure Resource Manager templates are JSON files that define the infrastructure resources and configurations needed for an application or workload. The templates can be version-controlled and deployed using a CI/CD pipeline, making it easier to deploy, manage, and scale Azure resources in a consistent and repeatable way.<br>
 
 
 
