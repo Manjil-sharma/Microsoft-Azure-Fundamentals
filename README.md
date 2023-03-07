@@ -1218,6 +1218,7 @@ Azure Resource Manager is often used in conjunction with Infrastructure as Code 
 ## Day 33 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
+### Azure Quickstart Templates
 Azure Quickstart templates are pre-built templates that can be used to deploy commonly used solutions or architectures on the Azure cloud platform. These templates are essentially scripts written in JSON format that can automate the process of creating and configuring Azure resources.<br>
 
 These templates are used when you want to quickly set up a new environment or application in Azure, without having to manually configure every single component. You simply select the template that best matches your requirements, and Azure will automatically create the resources and configure them according to the template.<br>
@@ -1226,6 +1227,12 @@ Azure Quickstart templates are important because they allow you to get up and ru
 
 
 
+### Virtual Networks(vNETs) and Subnets
+Virtual networks (VNETs) and subnets are both networking concepts that are used in the context of cloud computing, particularly in the Microsoft Azure cloud platform.<br>
+
+A virtual network (VNET) is essentially a private network that is hosted within the Azure cloud platform. It provides a secure and isolated environment in which you can deploy your resources, such as virtual machines, web applications, and databases. Within a VNET, you can define IP address ranges, subnets, and routing tables to control network traffic.<br>
+
+A subnet, on the other hand, is a smaller network within a larger network (in this case, the VNET). It is a range of IP addresses that are reserved for a specific set of resources or services. By dividing a VNET into subnets, you can further segment your network and apply additional security controls.<br>
 
 
 
