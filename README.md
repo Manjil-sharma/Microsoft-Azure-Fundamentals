@@ -1215,4 +1215,17 @@ Azure Resource Manager is used in Azure environments to manage and deploy resour
 Azure Resource Manager is often used in conjunction with Infrastructure as Code (IaC) tools such as Azure Resource Manager templates, PowerShell scripts, or Azure CLI to provision and manage Azure resources using code. Azure Resource Manager templates are JSON files that define the infrastructure resources and configurations needed for an application or workload. The templates can be version-controlled and deployed using a CI/CD pipeline, making it easier to deploy, manage, and scale Azure resources in a consistent and repeatable way.<br>
 
 
+## Day 33 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Azure Quickstart templates are pre-built templates that can be used to deploy commonly used solutions or architectures on the Azure cloud platform. These templates are essentially scripts written in JSON format that can automate the process of creating and configuring Azure resources.<br>
+
+These templates are used when you want to quickly set up a new environment or application in Azure, without having to manually configure every single component. You simply select the template that best matches your requirements, and Azure will automatically create the resources and configure them according to the template.<br>
+
+Azure Quickstart templates are important because they allow you to get up and running quickly, while ensuring consistency and accuracy across different environments. By using templates, you can also reduce the risk of errors or misconfigurations that can occur when configuring resources manually.<br>
+
+
+
+
+
 
