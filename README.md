@@ -1236,3 +1236,33 @@ A subnet, on the other hand, is a smaller network within a larger network (in th
 
 
 
+## Day 34of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+
+
+I started learning about Cloud-Native Networking Services.
+
+
+### Cloud-Native Networking Services
+
+### Azure DNS
+
+Azure DNS is a domain name system (DNS) hosting service provided by Microsoft Azure. It enables organizations to host their domain names in the Azure cloud and manage their DNS records using a scalable, reliable, and secure service.<br>
+
+Azure DNS is used by organizations that host their applications, websites, or services in the Azure cloud. It is also used by organizations that want to manage their DNS records in a scalable, reliable, and secure cloud-based service. Azure DNS integrates with other Azure services, such as Azure Traffic Manager and Azure App Service, to provide a complete DNS solution for cloud-based applications and services.<br>
+
+You can't use Azure DNS to buy a domain name. For an annual fee, you can buy a domain name by using App Service domains or a third-party domain name registrar. Your domains then can be hosted in Azure DNS for record management.<br>
+
+
+### Azure Virtual Network(vNET)
+
+Azure Virtual Network (VNet) is a networking service that allows you to create a logically isolated network in the cloud. It enables you to securely connect your Azure resources, such as virtual machines, cloud services, and containers, to each other and to your on-premises network.<br>
+
+Azure virtual network enables Azure resources to securely communicate with each other, the internet, and on-premises networks. Key scenarios that you can accomplish with a virtual network include - communication of Azure resources with the internet, communication between Azure resources, communication with on-premises resources, filtering network traffic, routing network traffic, and integration with Azure services.
+
+
+
+
+
+
