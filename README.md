@@ -1286,3 +1286,22 @@ An internal (or private) load balancer is used where private IPs are needed at t
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/load-balancer.png?raw=true"><br>
  
 </p><br>
+
+
+### Azure Application Gateway
+
+Azure Application Gateway is a layer 7 load balancer service in Microsoft Azure that provides traffic routing and load balancing for web applications.Application Gateway can make routing decisions based on additional attributes of an HTTP request, for example URI path or host headers. For example, you can route traffic based on the incoming URL. So if /images is in the incoming URL, you can route traffic to a specific set of servers (known as a pool) configured for images. If /video is in the URL, that traffic is routed to another pool that's optimized for videos.<br>
+
+Azure Application Gateway is used to manage and optimize traffic to web applications that are hosted on Azure VMs or other cloud services. It provides features such as SSL offloading, URL-based routing, cookie-based session affinity, and web application firewall (WAF) protection.
+
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/application%20gateway.png?raw=true"><br>
+ 
+</p><br>
+
+### Network Security Groups
+
+Azure Network Security Groups (NSGs) are a type of firewall service in Microsoft Azure that help secure network traffic by filtering traffic based on rules that you define. They allow you to control access to resources in an Azure virtual network by configuring inbound and outbound security rules.<br>
+
+Network Security Groups can be used to secure both inbound and outbound traffic. Inbound rules control traffic coming into your resources, while outbound rules control traffic going out of your resources.Security rules are evaluated and applied based on the five-tuple (source, source port, destination, destination port, and protocol) information.<br>
