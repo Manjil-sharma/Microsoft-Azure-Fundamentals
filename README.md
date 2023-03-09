@@ -1236,7 +1236,7 @@ A subnet, on the other hand, is a smaller network within a larger network (in th
 
 
 
-## Day 34of #Microsoft Azure Fundamentals
+## Day 34 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
 
@@ -1265,4 +1265,24 @@ Azure virtual network enables Azure resources to securely communicate with each 
 
 
 
+## Day 35 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
+
+
+I continued my  learning about Cloud-Native Networking Services.
+
+### Azure Load Balancer
+
+Azure Load Balancer operates at layer 4 of the Open Systems Interconnection (OSI) model. It's the single point of contact for clients. Load balancer distributes inbound flows that arrive at the load balancer's front end to backend pool instances. These flows are according to configured load-balancing rules and health probes. The backend pool instances can be Azure Virtual Machines or instances in a Virtual Machine Scale Set.<br>
+
+Load balancers are commonly used in cloud computing environments to ensure that applications are highly available and can handle increasing traffic loads. Azure Load Balancer can also be used to manage traffic for both Internet-facing and internal applications.<br>
+
+A public load balancer can provide outbound connections for virtual machines (VMs) inside your virtual network. These connections are accomplished by translating their private IP addresses to public IP addresses. Public Load Balancers are used to load balance internet traffic to your VMs.<br>
+
+An internal (or private) load balancer is used where private IPs are needed at the frontend only. Internal load balancers are used to load balance traffic inside a virtual network. A load balancer frontend can be accessed from an on-premises network in a hybrid scenario.<br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/load-balancer.png?raw=true"><br>
+ 
+</p><br>
