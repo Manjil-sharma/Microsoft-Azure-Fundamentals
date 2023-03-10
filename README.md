@@ -1305,3 +1305,29 @@ Azure Application Gateway is used to manage and optimize traffic to web applicat
 Azure Network Security Groups (NSGs) are a type of firewall service in Microsoft Azure that help secure network traffic by filtering traffic based on rules that you define. They allow you to control access to resources in an Azure virtual network by configuring inbound and outbound security rules.<br>
 
 Network Security Groups can be used to secure both inbound and outbound traffic. Inbound rules control traffic coming into your resources, while outbound rules control traffic going out of your resources.Security rules are evaluated and applied based on the five-tuple (source, source port, destination, destination port, and protocol) information.<br>
+
+
+
+## Day 36 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I started learning about Enterprise/Hybrid Networking Services
+
+### Enterprise/Hybrid Networking Services
+
+### Azure Front Door
+
+Azure Front Door is a cloud-based service provided by Microsoft Azure that helps to optimize web applications and content delivery. It acts as a global entry point for web applications and routes traffic to the best performing backend resources based on the user's location and other criteria.<br?
+
+Azure Front Door delivers your content using the Microsoft’s global edge network with hundreds of global and local points of presence (PoPs) distributed around the world close to both your enterprise and consumer end users.<br>
+
+### Why use Azure Front Door?
+
+-- Azure Front Door enables internet-facing application to:<br>
+
+-- Build and operate modern internet-first architectures that have dynamic, high-quality digital experiences with highly automated, secure, and reliable platforms.<br>
+
+-- Accelerate and deliver your app and content globally at scale to your users wherever they're creating opportunities for you to compete, weather change, and quickly adapt to new demand and markets.<br>
+
+-- Intelligently secure your digital estate against known and new threats with intelligent security that embrace a Zero Trust framework.
+
