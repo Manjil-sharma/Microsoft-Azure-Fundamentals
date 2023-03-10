@@ -1323,11 +1323,25 @@ Azure Front Door delivers your content using the Microsoft’s global edge netwo
 
 ### Why use Azure Front Door?
 
---Azure Front Door enables internet-facing application to:<br>
+- Azure Front Door enables internet-facing application to:<br>
 
---Build and operate modern internet-first architectures that have dynamic, high-quality digital experiences with highly automated, secure, and reliable platforms.<br>
+- Build and operate modern internet-first architectures that have dynamic, high-quality digital experiences with highly automated, secure, and reliable platforms.<br>
 
---Accelerate and deliver your app and content globally at scale to your users wherever they're creating opportunities for you to compete, weather change, and quickly adapt to new demand and markets.<br>
+- Accelerate and deliver your app and content globally at scale to your users wherever they're creating opportunities for you to compete, weather change, and quickly adapt to new demand and markets.<br>
 
---Intelligently secure your digital estate against known and new threats with intelligent security that embrace a Zero Trust framework.
+- Intelligently secure your digital estate against known and new threats with intelligent security that embrace a Zero Trust framework.<br>
+
+### Azure Express Route
+
+Azure ExpressRoute enables businesses to create private, high-bandwidth connections between their on-premises infrastructure and Azure datacenters. It provides a more secure, reliable, and predictable connectivity option for accessing Azure resources compared to public internet connectivity.<br>
+
+ExpressRoute lets you extend your on-premises networks into the Microsoft cloud over a private connection with the help of a connectivity provider. With ExpressRoute, you can establish connections to Microsoft cloud services, such as Microsoft Azure and Microsoft 365.<br>
+
+
+Connectivity can be from an any-to-any (IP VPN) network, a point-to-point Ethernet network, or a virtual cross-connection through a connectivity provider at a colocation facility. ExpressRoute connections don't go over the public Internet. This allows ExpressRoute connections to offer more reliability, faster speeds, consistent latencies, and higher security than typical connections over the Internet. <br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/Capture.PNG?raw=true"><br>
+ 
+</p><br>
 
