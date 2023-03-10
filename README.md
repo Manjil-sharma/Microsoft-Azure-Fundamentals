@@ -1323,11 +1323,11 @@ Azure Front Door delivers your content using the Microsoft’s global edge netwo
 
 ### Why use Azure Front Door?
 
--- Azure Front Door enables internet-facing application to:<br>
+--Azure Front Door enables internet-facing application to:<br>
 
--- Build and operate modern internet-first architectures that have dynamic, high-quality digital experiences with highly automated, secure, and reliable platforms.<br>
+--Build and operate modern internet-first architectures that have dynamic, high-quality digital experiences with highly automated, secure, and reliable platforms.<br>
 
--- Accelerate and deliver your app and content globally at scale to your users wherever they're creating opportunities for you to compete, weather change, and quickly adapt to new demand and markets.<br>
+--Accelerate and deliver your app and content globally at scale to your users wherever they're creating opportunities for you to compete, weather change, and quickly adapt to new demand and markets.<br>
 
--- Intelligently secure your digital estate against known and new threats with intelligent security that embrace a Zero Trust framework.
+--Intelligently secure your digital estate against known and new threats with intelligent security that embrace a Zero Trust framework.
 
