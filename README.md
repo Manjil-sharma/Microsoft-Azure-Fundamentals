@@ -1345,3 +1345,48 @@ Connectivity can be from an any-to-any (IP VPN) network, a point-to-point Ethern
  
 </p><br>
 
+
+
+
+Day 37 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+
+Today I continued learning more aboutEnterprise Networking Services.
+
+
+### Virtual WAN
+
+Azure Virtual WAN is a networking service that brings many networking, security, and routing functionalities together to provide a single operational interface.It provides a secure, high-performance, and optimized WAN (Wide Area Network) connectivity to connect your on-premises network and branch offices to Azure and other SaaS services.Some of the main features include:
+
+- Branch connectivity (via connectivity automation from Virtual WAN Partner devices such as SD-WAN or VPN CPE).
+- Site-to-site VPN connectivity.
+- Remote user VPN connectivity (point-to-site).
+- Private connectivity (ExpressRoute).
+- Intra-cloud connectivity (transitive connectivity for virtual networks).
+- VPN ExpressRoute inter-connectivity.
+- Routing, Azure Firewall, and encryption for private connectivity.
+
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/virtual%20wan.PNG?raw=true"><br>
+ 
+</p><br>
+
+
+### Virtual Network Gateway
+
+he virtual network (VNet) data gateway helps you to connect from Microsoft Cloud services to your Azure data services within a VNet without the need of an on-premises data gateway. The VNet data gateway securely communicates with the data source, executes queries, and transmits results back to the service.<br>
+
+Azure Virtual Network Gateway allows  to create secure and scalable VPN (Virtual Private Network) connections to Azure virtual networks. It provides two types of VPN connections, Site-to-Site VPN, and Point-to-Site VPN, to securely connect your on-premises network and individual devices to Azure virtual networks.
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/virtual%20network%20gateway.PNG?raw=true"><br>
+ 
+</p><br>
+
+
+
+
+
+
