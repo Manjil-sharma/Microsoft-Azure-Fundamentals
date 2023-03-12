@@ -1387,6 +1387,29 @@ Azure Virtual Network Gateway allows  to create secure and scalable VPN (Virtual
 
 
 
+## Day 38 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
+
+Today I learned about Azure Traffic Manager and Azure Load Balancer.<br>
+
+### Azure Traffic Manager
+
+Azure Traffic Manager is a DNS-based traffic load balancer. This service allows you to distribute traffic to your public facing applications across the global Azure regions. Traffic Manager also provides your public endpoints with high availability and quick responsiveness.<br>
+
+This service is used to improve the availability and performance of your applications and services by directing user traffic to the most optimal endpoint based on criteria such as location, latency, and availability.<br>
+
+Traffic Manager uses DNS to direct client requests to the appropriate service endpoint based on a traffic-routing method. Traffic manager also provides health monitoring for every endpoint. The endpoint can be any Internet-facing service hosted inside or outside of Azure. Traffic Manager provides a range of traffic-routing methods and endpoint monitoring options to suit different application needs and automatic failover models. Traffic Manager is resilient to failure, including the failure of an entire Azure region.<br>
+
+### Azure Scale Set
+
+Azure Scale Sets are typically used by organizations that need to automatically scale their infrastructure based on demand. For example, if your application experiences a sudden spike in traffic, Azure Scale Sets can automatically deploy additional VMs to handle the increased load. Conversely, if traffic decreases, Scale Sets can automatically remove excess VMs to save costs.<br>
+
+Scale sets provide the following key benefits:
+
+- Easy to create and manage multiple VMs
+- Provides high availability and application resiliency by distributing VMs across availability zones or fault domains
+- Allows your application to automatically scale as resource demand changes
+- Works at large-scale
 
 
