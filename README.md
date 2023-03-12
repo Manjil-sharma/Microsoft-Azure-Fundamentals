@@ -1352,7 +1352,7 @@ Connectivity can be from an any-to-any (IP VPN) network, a point-to-point Ethern
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
 
-Today I continued learning more aboutEnterprise Networking Services.
+Today I continued learning more about Enterprise Networking Services provided by Azure.
 
 
 ### Virtual WAN
