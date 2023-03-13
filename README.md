@@ -1415,7 +1415,7 @@ Scale sets provide the following key benefits:
 ## Day 39 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned about Azure IOT Servies.
+Today I learned about Azure IoT Servies.
 
 ### IoT Central
 
@@ -1432,3 +1432,12 @@ Azure IoT Hub is a managed service hosted in the cloud that acts as a central me
 Several messaging patterns are supported, including device-to-cloud telemetry, uploading files from devices, and request-reply methods to control your devices from the cloud. IoT Hub also supports monitoring to help you track device creation, device connections, and device failures.<br>
 
 
+### Iot Edge
+
+Azure IoT Edge is a cloud-based service that extends the capabilities of Azure IoT Hub to the edge devices, such as gateways, routers, or other devices, enabling local data processing and analysis. This service allows businesses to take advantage of the benefits of cloud computing, such as scalability and reliability, while also processing data locally on the edge devices for reduced latency, bandwidth savings, and improved security.<br>
+
+Azure IoT Edge is made up of three components:<br>
+
+- IoT Edge modules are containers that run Azure services, third-party services, or your own code. Modules are deployed to IoT Edge devices and execute locally on those devices.
+- The IoT Edge runtime runs on each IoT Edge device and manages the modules deployed to each device.
+- A cloud-based interface enables you to remotely monitor and manage IoT Edge devices.
