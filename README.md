@@ -1412,4 +1412,23 @@ Scale sets provide the following key benefits:
 - Allows your application to automatically scale as resource demand changes
 - Works at large-scale
 
+## Day 39 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Azure IOT Servies.
+
+### IoT Central
+
+IoT Central is an IoT application platform as a service (aPaaS) that reduces the burden and cost of developing, managing, and maintaining IoT solutions. Use IoT Central to quickly evaluate your IoT scenario and assess the opportunities it can create for your business. IoT Central streamlines the development of a complex and continually evolving IoT infrastructure by letting you to focus your efforts on determining the business impact you can create with the IoT data stream.<br>
+
+Azure IoT Central is a cloud-based IoT platform that provides a simplified way to build, manage, and scale IoT applications. It offers pre-built templates and tools for creating custom IoT solutions, allowing businesses to connect and manage a diverse range of devices and data sources.<br>
+
+### IOT Hub
+
+IoT Hub is a cloud-based service that enables bi-directional communication between IoT devices and the cloud. It acts as a central hub for managing, monitoring, and securing IoT devices, and enables businesses to build IoT solutions at scale.
+
+Azure IoT Hub is a managed service hosted in the cloud that acts as a central message hub for communication between an IoT application and its attached devices. You can connect millions of devices and their backend solutions reliably and securely. Almost any device can be connected to an IoT hub.
+
+Several messaging patterns are supported, including device-to-cloud telemetry, uploading files from devices, and request-reply methods to control your devices from the cloud. IoT Hub also supports monitoring to help you track device creation, device connections, and device failures.<br>
+
 
