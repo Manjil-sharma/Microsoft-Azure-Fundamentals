@@ -1423,7 +1423,7 @@ IoT Central is an IoT application platform as a service (aPaaS) that reduces the
 
 Azure IoT Central is a cloud-based IoT platform that provides a simplified way to build, manage, and scale IoT applications. It offers pre-built templates and tools for creating custom IoT solutions, allowing businesses to connect and manage a diverse range of devices and data sources.<br>
 
-### IOT Hub
+### IoT Hub
 
 IoT Hub is a cloud-based service that enables bi-directional communication between IoT devices and the cloud. It acts as a central hub for managing, monitoring, and securing IoT devices, and enables businesses to build IoT solutions at scale.
 
@@ -1432,7 +1432,7 @@ Azure IoT Hub is a managed service hosted in the cloud that acts as a central me
 Several messaging patterns are supported, including device-to-cloud telemetry, uploading files from devices, and request-reply methods to control your devices from the cloud. IoT Hub also supports monitoring to help you track device creation, device connections, and device failures.<br>
 
 
-### Iot Edge
+### IoT Edge
 
 Azure IoT Edge is a cloud-based service that extends the capabilities of Azure IoT Hub to the edge devices, such as gateways, routers, or other devices, enabling local data processing and analysis. This service allows businesses to take advantage of the benefits of cloud computing, such as scalability and reliability, while also processing data locally on the edge devices for reduced latency, bandwidth savings, and improved security.<br>
 
@@ -1441,3 +1441,41 @@ Azure IoT Edge is made up of three components:<br>
 - IoT Edge modules are containers that run Azure services, third-party services, or your own code. Modules are deployed to IoT Edge devices and execute locally on those devices.
 - The IoT Edge runtime runs on each IoT Edge device and manages the modules deployed to each device.
 - A cloud-based interface enables you to remotely monitor and manage IoT Edge devices.
+
+
+
+
+## Day 40 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+
+Today I learned about Windows 10 IoT Core Services and Big Data and Analytics Services
+
+
+### Windows 10 IoT Core Services
+
+Windows 10 IoT Core Services is a set of tools and services that extend the functionality of Windows 10 IoT Core. It includes features such as device management, security, and cloud connectivity, which are essential for managing and securing IoT devices at scale. These services are used by organizations to build, deploy, and manage large fleets of IoT devices.<br>
+
+Windows 10 IoT Core Services subscription provides the essential services needed to commercialize a device on Windows 10 IoT Core. Through this subscription, OEMs have access to long term support on Windows 10 IoT Core Long Term Servicing Channel (LTSC) releases along with services to publish device updates and assess device health.<br>
+
+
+### Big Data And Analytics Services
+
+
+### Azure Synapse Analytics
+
+Azure Synapse Analytics is a cloud-based analytics service provided by Microsoft Azure. It is an integrated analytics service that combines big data and data warehousing. Azure Synapse Analytics provides a unified experience for data ingestion, preparation, management, and serving for immediate business intelligence and machine learning needs.<br>
+
+Azure Synapse is an enterprise analytics service that accelerates time to insight across data warehouses and big data systems. Azure Synapse brings together the best of SQL technologies used in enterprise data warehousing, Spark technologies used for big data, Data Explorer for log and time series analytics, Pipelines for data integration and ETL/ELT, and deep integration with other Azure services such as Power BI, CosmosDB, and AzureML.<br>
+
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/synapse-architecture.png?raw=true"><br>
+ 
+</p><br>
+
+
+
+
+
+
