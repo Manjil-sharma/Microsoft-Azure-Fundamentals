@@ -1459,7 +1459,7 @@ Windows 10 IoT Core Services is a set of tools and services that extend the func
 Windows 10 IoT Core Services subscription provides the essential services needed to commercialize a device on Windows 10 IoT Core. Through this subscription, OEMs have access to long term support on Windows 10 IoT Core Long Term Servicing Channel (LTSC) releases along with services to publish device updates and assess device health.<br>
 
 
-### Big Data And Analytics Services
+## Big Data And Analytics Services
 
 
 ### Azure Synapse Analytics
@@ -1471,6 +1471,20 @@ Azure Synapse is an enterprise analytics service that accelerates time to insigh
 
 <p align="center">
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/synapse-architecture.png?raw=true"><br>
+ 
+</p><br>
+
+
+
+### HDInsight
+
+ It is a fully-managed service that allows users to create and manage Apache Hadoop and Spark clusters, providing a scalable and flexible environment for big data processing and analytics.<br>
+
+HDInsight supports a wide range of big data technologies, including Apache Hadoop, Spark, Hive, Pig, Storm, and HBase, among others. It provides a range of tools and services for data ingestion, processing, and analysis, including data visualization, machine learning, and real-time analytics.<br>
+You can use HDInsight to perform interactive queries at petabyte scales over structured or unstructured data in any format. You can also build models connecting them to BI tools.<br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/hdinsight-architecture-data-warehouse.png?raw=true"><br>
  
 </p><br>
 
