@@ -1490,6 +1490,22 @@ You can use HDInsight to perform interactive queries at petabyte scales over str
 
 
 
+## Day 41 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I lerned more about Big Data and Analytics services.
+
+### Azure Databricks
+
+Azure Databricks is a cloud-based Apache Spark-based analytics platform designed to help users collaborate on big data analytics and machine learning projects. It combines the power of Apache Spark with the flexibility and scale of Azure cloud computing, providing a unified platform for data engineers, data scientists, and business analysts to work together to derive insights from data.<br>
+
+Azure Databricks is used in a variety of scenarios, including data warehousing, real-time streaming analytics, machine learning, and data engineering. It is particularly useful in situations where large amounts of data need to be processed quickly and efficiently.<br>
+
+### Data Lake Analytics
+
+Azure Data Lake Analytics is an on-demand analytics job service that simplifies big data. Instead of deploying, configuring, and tuning hardware, you write queries to transform your data and extract valuable insights. The analytics service can handle jobs of any scale instantly by setting the dial for how much power you need. You only pay for your job when it's running, making it cost-effective.<br>
+
+Azure Data Lake Analytics is a cloud-based big data processing and analytics service provided by Microsoft as part of the Azure Data Lake suite of services. It enables developers and data scientists to easily analyze and process massive amounts of data stored in Azure Data Lake Store, Azure Blob Storage, or Hadoop Distributed File System (HDFS).<br>
 
 
 
