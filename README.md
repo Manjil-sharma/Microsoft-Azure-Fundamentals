@@ -1547,4 +1547,9 @@ Azure Logic Apps is a cloud platform where you can create and run automated work
 Event Grid is a highly scalable, serverless event broker that you can use to integrate applications using events. Events are delivered by Event Grid to subscriber destinations such as applications, Azure services, or any endpoint to which Event Grid has network access.<br>
 
 
-
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/event%20grid.PNG?raw=true"><br>
+ </p><br>
+ 
+ 
+ 
