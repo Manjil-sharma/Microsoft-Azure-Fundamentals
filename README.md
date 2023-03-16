@@ -1509,3 +1509,42 @@ Azure Data Lake Analytics is a cloud-based big data processing and analytics ser
 
 
 
+## Day 42 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I started learning about Azure AI/Ml Services and Serverless Services
+
+### Azure ML Services
+
+
+Azure Machine Learning is a cloud service for accelerating and managing the machine learning project lifecycle. Machine learning professionals, data scientists, and engineers can use it in their day-to-day workflows: Train and deploy models, and manage MLOps.
+You can create a model in Azure Machine Learning or use a model built from an open-source platform, such as Pytorch, TensorFlow, or scikit-learn. MLOps tools help you monitor, retrain, and redeploy models.Azure Machine Learning is for individuals and teams implementing MLOps within their organization to bring machine learning models into production in a secure and auditable production environment.
+
+Some of these services have been moved under the Azure Cognitive Services umbrella.
+
+- **Personalizer** Deliver rich, personalized experiences for every user.
+- **Translator** Add real-time, multi-language text translation to your apps, website, and tools.
+- **Anomaly detector** Detect anomalies in data to quickly identify and troubleshoot issues.
+- **Azure Bot Service** Intelligent, serverless bot service that scales on demand
+- **Form Recogniser** Automate the extraction of text, key/value pairs, and tables from your documents.
+- **Computer Vision** Easily customize computer vision models for your unique use case.
+- **Language Understanding** Build natural language understanding into apps, bots, and IoT devices.
+- **Ink Recognizer** Recognize digital ink content, such as handwriting, shapes, and document layout.
+
+## Serverless Services
+
+### Azure Functions
+Azure Functions is an event driven, compute-on-demand experience that extends the existing Azure application platform with capabilities to implement code triggered by events occurring in Azure or third party service as well as on-premises systems. <br>
+
+### Blob Storage
+Azure Blob Storage is Microsoft's object storage solution for the cloud. Blob Storage is optimized for storing massive amounts of unstructured data. Unstructured data is data that doesn't adhere to a particular data model or definition, such as text or binary data.<br>
+
+### Logic Apps
+
+Azure Logic Apps is a cloud platform where you can create and run automated workflows with little to no code. By using the visual designer and selecting from prebuilt operations, you can quickly build a workflow that integrates and manages your apps, data, services, and systems.<br>
+
+### Event Grid
+Event Grid is a highly scalable, serverless event broker that you can use to integrate applications using events. Events are delivered by Event Grid to subscriber destinations such as applications, Azure services, or any endpoint to which Event Grid has network access.<br>
+
+
+
