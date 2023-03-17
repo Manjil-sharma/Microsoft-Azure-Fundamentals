@@ -1552,4 +1552,39 @@ Event Grid is a highly scalable, serverless event broker that you can use to int
  </p><br>
  
  
- 
+ ## Day 44 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Azure Management Tools.
+
+### Azure Portal
+
+The Azure portal is a web-based, unified console that provides an alternative to command-line tools. With the Azure portal, you can manage your Azure subscription using a graphical user interface. You can build, manage, and monitor everything from simple web apps to complex cloud deployments in the portal.<br>
+
+The Azure portal is designed for resiliency and continuous availability. It has a presence in every Azure datacenter. This configuration makes the Azure portal resilient to individual datacenter failures and avoids network slow-downs by being close to users. The Azure portal updates continuously and requires no downtime for maintenance activities.<br>
+
+### Azure Power Shell
+
+Azure PowerShell is designed for managing and administering Azure resources from the command line. Use Azure PowerShell when you want to build automated tools that use the Azure Resource Manager model.Azure PowerShell is used to streamline and automate common tasks and to perform advanced configurations that are not easily achievable through the Azure portal. With Azure PowerShell, users can create and manage Azure resources, deploy and configure virtual machines, and automate workflows.
+
+### Azure Studio Code
+
+Visual Studio Code is a code editor that has built-in extensions for Azure management, allowing developers and IT professionals to manage Azure resources directly from within the editor.
+
+The Azure extension for Visual Studio Code provides features such as:
+
+Viewing and managing Azure resources
+Deploying Azure Functions and App Services
+Debugging Azure Functions locally
+Connecting to Azure DevOps repositories
+Integrating with Azure Storage accounts
+Managing Azure Virtual Machines
+By using Visual Studio Code as an Azure management tool, developers and IT professionals can streamline their workflow and perform common Azure management tasks without leaving the editor. This can save time and increase productivity, especially for those who spend a lot of time working with Azure resources.
+
+### Azure Cloud Shell
+
+Azure Cloud Shell is an interactive, authenticated, browser-accessible terminal for managing Azure resources. It provides the flexibility of choosing the shell experience that best suits the way you work, either Bash or PowerShell.
+
+### Azure CLI
+
+he Azure command-line interface (Azure CLI) is a set of commands used to create and manage Azure resources. The Azure CLI is available across Azure services and is designed to get you working quickly with Azure, with an emphasis on automation.
