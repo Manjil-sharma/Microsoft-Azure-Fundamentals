@@ -1573,13 +1573,13 @@ Visual Studio Code is a code editor that has built-in extensions for Azure manag
 
 The Azure extension for Visual Studio Code provides features such as:
 
-Viewing and managing Azure resources
-Deploying Azure Functions and App Services
-Debugging Azure Functions locally
-Connecting to Azure DevOps repositories
-Integrating with Azure Storage accounts
-Managing Azure Virtual Machines
-By using Visual Studio Code as an Azure management tool, developers and IT professionals can streamline their workflow and perform common Azure management tasks without leaving the editor. This can save time and increase productivity, especially for those who spend a lot of time working with Azure resources.
+- Viewing and managing Azure resources
+- Deploying Azure Functions and App Services
+- Debugging Azure Functions locally
+- Connecting to Azure DevOps repositories
+- Integrating with Azure Storage accounts
+- Managing Azure Virtual Machines
+- By using Visual Studio Code as an Azure management tool, developers and IT professionals can streamline their workflow and perform common Azure management tasks without leaving the editor. This can save time and increase productivity, especially for those who spend a lot of time working with Azure resources.
 
 ### Azure Cloud Shell
 
