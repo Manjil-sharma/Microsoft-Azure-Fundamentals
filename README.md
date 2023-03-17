@@ -1552,7 +1552,7 @@ Event Grid is a highly scalable, serverless event broker that you can use to int
  </p><br>
  
  
- ## Day 44 of #Microsoft Azure Fundamentals
+ ## Day 43 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
 Today I learned about Azure Management Tools.
