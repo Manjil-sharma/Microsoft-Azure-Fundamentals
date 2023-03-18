@@ -1588,3 +1588,39 @@ Azure Cloud Shell is an interactive, authenticated, browser-accessible terminal 
 ### Azure CLI
 
 he Azure command-line interface (Azure CLI) is a set of commands used to create and manage Azure resources. The Azure CLI is available across Azure services and is designed to get you working quickly with Azure, with an emphasis on automation.
+
+
+
+
+
+
+## Day 44 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Azure Trust Center and different Complience Programs along with Azure Active Active Directory.<br>
+
+### Azure Trust Center
+
+Azure Trust Center is a website and a set of resources that provide information about the security, privacy, and compliance features of Microsoft Azure, the cloud computing platform from Microsoft.
+In addition to information on compliance and security, the Azure Trust Center also provides resources for customers to manage their own compliance needs within Azure, such as compliance reports and tools for auditing and monitoring their Azure environment.
+
+### compliance Programs
+
+Compliance programs refer to a set of guidelines, policies, and procedures that an organization implements to ensure that it operates in accordance with relevant laws, regulations, and standards. These programs are designed to help companies maintain legal and ethical business practices, protect their customers' privacy and data, and mitigate risks associated with non-compliance.
+
+Some of the compliance programs are given below:
+- **Criminal Justice Information Services (CJIS)**
+- **Cloud Security Alliance (CSA) STAR Certification**
+- **General Data Protection Regulation (GDPR)**
+- **Health Insurance Portability and Accountability Act (HIPAA)**
+- **Federal Information Processing Standard (FIPS) 140-2**
+
+### Azure Active Directory
+
+Azure Active Directory (Azure AD) is a cloud-based identity and access management service. Azure AD enables your employees access external resources, such as Microsoft 365, the Azure portal, and thousands of other SaaS applications. Azure Active Directory also helps them access internal resources like apps on your corporate intranet, and any cloud apps developed for your own organization.
+Azure Active Directory comes in four editions:<br>
+
+- **Free:** MFA, SSO, Basic Security and Usage Reports, User Management
+- **Office 365 Apps** Company Branding, SLA, Two-Sync between On-Premise and Cloud
+- **Premium 1** Hybrid Architecture, Advanced Group Access, Conditional Access
+- **Premium 2** Identity Protection, Identity Governance
