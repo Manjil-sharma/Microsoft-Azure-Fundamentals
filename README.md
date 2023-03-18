@@ -1604,7 +1604,7 @@ Today I learned about Azure Trust Center and different Complience Programs along
 Azure Trust Center is a website and a set of resources that provide information about the security, privacy, and compliance features of Microsoft Azure, the cloud computing platform from Microsoft.
 In addition to information on compliance and security, the Azure Trust Center also provides resources for customers to manage their own compliance needs within Azure, such as compliance reports and tools for auditing and monitoring their Azure environment.
 
-### compliance Programs
+### Compliance Programs
 
 Compliance programs refer to a set of guidelines, policies, and procedures that an organization implements to ensure that it operates in accordance with relevant laws, regulations, and standards. These programs are designed to help companies maintain legal and ethical business practices, protect their customers' privacy and data, and mitigate risks associated with non-compliance.
 
