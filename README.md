@@ -1661,3 +1661,7 @@ Different functionality of Key Vauls are:
 - **Certificate Management:** easily provision, manage and deploy public and private SSL certificates for use with Azure and internal connected resources
 
 - **Hardware Security Module:** secrets and keys can be protected either by software or FIPS 140-2 Level 2 validated HSMs.
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/azure%20key%20vault.PNG?raw=true"><br>
+ </p><br>
