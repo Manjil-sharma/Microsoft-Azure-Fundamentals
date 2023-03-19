@@ -1638,6 +1638,10 @@ Multi-factor authentication is a process in which users are prompted during the 
 
 If you only use a password to authenticate a user, it leaves an insecure vector for attack. If the password is weak or has been exposed elsewhere, an attacker could be using it to gain access. When you require a second form of authentication, security is increased because this additional factor isn't something that's easy for an attacker to obtain or duplicate.<br>
 
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/multi-factor%20authentication.PNG?raw=true"><br>
+ </p><br>
+
 ### Azure Security Center
 
 Azure Security Center is a unified infrastructure security management system. It strengthens the security posture of your data centers and provides advanced threat protection across your hybrid workloads in the cloud. It provides a centralized view of security recommendations and alerts for your Azure environment, and helps you identify and mitigate potential security threats.
