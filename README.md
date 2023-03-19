@@ -1624,3 +1624,34 @@ Azure Active Directory comes in four editions:<br>
 - **Office 365 Apps** Company Branding, SLA, Two-Sync between On-Premise and Cloud
 - **Premium 1** Hybrid Architecture, Advanced Group Access, Conditional Access
 - **Premium 2** Identity Protection, Identity Governance
+
+
+## Day 45 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+On security topic today I learned about Multi-Factor Authentication and Azure Serurity Center and got to know more about Key Vault.
+
+
+### Multi-Factor Authentication
+
+Multi-factor authentication is a process in which users are prompted during the sign-in process for an additional form of identification, such as a code on their cellphone or a fingerprint scan.
+
+If you only use a password to authenticate a user, it leaves an insecure vector for attack. If the password is weak or has been exposed elsewhere, an attacker could be using it to gain access. When you require a second form of authentication, security is increased because this additional factor isn't something that's easy for an attacker to obtain or duplicate.<br>
+
+### Azure Security Center
+
+Azure Security Center is a unified infrastructure security management system. It strengthens the security posture of your data centers and provides advanced threat protection across your hybrid workloads in the cloud.
+
+### Key Vault
+
+Azure Key Vault is a cloud service for securely storing and accessing secrets. A secret is anything that you want to tightly control access to, such as API keys, passwords, certificates, or cryptographic keys. Key Vault service supports two types of containers: vaults and managed hardware security module(HSM) pools. Vaults support storing software and HSM-backed keys, secrets, and certificates. 
+
+Different functionality of Key Vauls are:
+
+- **Secrets Management:** store and tightly control access to tokens, passwords, certificates, API keys, and other secrets
+
+- **Key Management: **create and control the encryption keys used to encrypt your data
+
+- **Certificate Management:**easily provision, manage and deploy public and private SSL certificates for use with Azure and internal connected resources
+
+- **Hardware Security Module:**secrets and keys can be protected either by software or FIPS 140-2 Level 2 validated HSMs.
