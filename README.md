@@ -1640,7 +1640,9 @@ If you only use a password to authenticate a user, it leaves an insecure vector 
 
 ### Azure Security Center
 
-Azure Security Center is a unified infrastructure security management system. It strengthens the security posture of your data centers and provides advanced threat protection across your hybrid workloads in the cloud.
+Azure Security Center is a unified infrastructure security management system. It strengthens the security posture of your data centers and provides advanced threat protection across your hybrid workloads in the cloud. It provides a centralized view of security recommendations and alerts for your Azure environment, and helps you identify and mitigate potential security threats.
+
+Azure Security Center is used to improve the security of your Azure resources by providing you with real-time security alerts and recommendations based on best practices and industry standards. It can also help you meet compliance requirements by providing continuous monitoring and assessment of your security posture.
 
 ### Key Vault
 
@@ -1650,8 +1652,8 @@ Different functionality of Key Vauls are:
 
 - **Secrets Management:** store and tightly control access to tokens, passwords, certificates, API keys, and other secrets
 
-- **Key Management: **create and control the encryption keys used to encrypt your data
+- **Key Management:** create and control the encryption keys used to encrypt your data
 
-- **Certificate Management:**easily provision, manage and deploy public and private SSL certificates for use with Azure and internal connected resources
+- **Certificate Management:** easily provision, manage and deploy public and private SSL certificates for use with Azure and internal connected resources
 
-- **Hardware Security Module:**secrets and keys can be protected either by software or FIPS 140-2 Level 2 validated HSMs.
+- **Hardware Security Module:** secrets and keys can be protected either by software or FIPS 140-2 Level 2 validated HSMs.
