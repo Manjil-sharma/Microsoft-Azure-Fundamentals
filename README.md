@@ -1675,9 +1675,15 @@ Different functionality of Key Vauls are:
 
 Today I learned about Azure DDoS Protection, Azure Firewall and Azure Information Protection.
 
-### Azure DDos Protection
+### Azure DDoS Protection
 
 Distributed denial of service (DDoS) attacks are some of the largest availability and security concerns facing customers that are moving their applications to the cloud. A DDoS attack attempts to exhaust an application's resources, making the application unavailable to legitimate users. DDoS attacks can be targeted at any endpoint that is publicly reachable through the internet.
+
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/ddos%20protection.PNG?raw=true"><br>
+ </p><br>
+
 
 ### Azure Firewall
 
