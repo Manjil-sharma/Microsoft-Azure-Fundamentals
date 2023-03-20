@@ -1665,3 +1665,32 @@ Different functionality of Key Vauls are:
 <p align="center">
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/azure%20key%20vault.PNG?raw=true"><br>
  </p><br>
+
+
+
+
+
+## Day 46 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Azure DDoS Protection, Azure Firewall and Azure Information Protection.
+
+### Azure DDos Protection
+
+Distributed denial of service (DDoS) attacks are some of the largest availability and security concerns facing customers that are moving their applications to the cloud. A DDoS attack attempts to exhaust an application's resources, making the application unavailable to legitimate users. DDoS attacks can be targeted at any endpoint that is publicly reachable through the internet.
+
+### Azure Firewall
+
+Azure Firewall is a cloud-native and intelligent network firewall security service that provides the best of breed threat protection for your cloud workloads running in Azure. It's a fully stateful, firewall as a service with built-in high availability and unrestricted cloud scalability.Azure Firewall Standard provides L3-L7 filtering and threat intelligence feeds directly from Microsoft Cyber Security. Threat intelligence-based filtering can alert and deny traffic from/to known malicious IP addresses and domains that are updated in real time to protect against new and emerging attacks.
+
+### Azure Information Protection
+
+Microsoft Azure Information Protection (AIP) helps organizations discover, classify, label, and protect sensitive documents and emails. Admins can define rules and conditions to apply labels automatically, users can apply labels manually, or a combination of the two can be used—where users are given recommendations on applying labels. Users also benefit by having the ability to manually apply sensitivity labels to their content or by having their content automatically classified.
+
+
+
+
+
+
+
+
