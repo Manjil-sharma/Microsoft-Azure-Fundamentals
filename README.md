@@ -1701,7 +1701,7 @@ Microsoft Azure Information Protection (AIP) helps organizations discover, class
 Today I continued learning about different Azure Security Services.
 
 
-###Application Gateway:
+### Application Gateway:
 
 Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications. Traditional load balancers operate at the transport layer (OSI layer 4 - TCP and UDP) and route traffic based on source IP address and port, to a destination IP address and port.
 
