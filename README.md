@@ -1695,6 +1695,35 @@ Microsoft Azure Information Protection (AIP) helps organizations discover, class
 
 
 
+## Day 47 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I continued learning about different Azure Security Services.
+
+
+###Application Gateway:
+
+Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications. Traditional load balancers operate at the transport layer (OSI layer 4 - TCP and UDP) and route traffic based on source IP address and port, to a destination IP address and port.
+
+### Azure Advance Threat Protection
+
+Azure Advanced Threat Protection (ATP) is a cloud-based security solution that helps organizations identify and respond to advanced threats on their networks. It uses machine learning and behavioral analysis to detect suspicious activities, such as abnormal user behavior, credential theft, and lateral movement.
+
+Azure ATP is primarily used by organizations that want to improve their security posture and protect their sensitive data from cyber threats. It can be used in conjunction with other security solutions, such as firewalls and anti-virus software, to provide a comprehensive security approach.<br>
+
+### Microsoft Security Development Lifecycle(SDL)
+
+Microsoft's Security Development Lifecycle (SDL) embeds comprehensive security requirements, technology specific tooling, and mandatory processes into the development and operation of all software products. All development teams at Microsoft must adhere to the SDL processes and requirements, resulting in more secure software with fewer and less severe vulnerabilities at a reduced development cost.
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/sdl.PNG?raw=true"><br>
+ </p><br>
+
+
+### Azure Policies
+
+Azure Policy helps to enforce organizational standards and to assess compliance at-scale. Through its compliance dashboard, it provides an aggregated view to evaluate the overall state of the environment, with the ability to drill down to the per-resource, per-policy granularity. It also helps to bring your resources to compliance through bulk remediation for existing resources and automatic remediation for new resources.
+
 
 
 
