@@ -1727,5 +1727,46 @@ Azure Policy helps to enforce organizational standards and to assess compliance 
 
 
 
+## Day 48 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Role Based Accesss Control(RBAC), Lock Resources and Management Groups.
+
+### Role Based Access Control (RBAC)
+
+Role-based access control (RBAC) in Azure is a powerful feature that allows you to manage access to resources based on users' roles and responsibilities. A Role Assignment consists of three key elements: a Security Principal, a Role Definition, and a Scope.<br>
+
+The Security Principal represents the identity requesting access, such as a User, Group, Service Principal, or Managed Identity. The Role Definition is a collection of permissions that lists the operations that can be performed, such as read, write, and delete. Azure has built-in roles, and you can define custom roles depending on your organization's needs.<br>
+
+Finally, the Scope is the set of resources to which the Role Assignment applies, and it can be set at the Management, Subscription, or Resource Group level. By using RBAC in Azure, you can ensure that users have access only to the resources they need, reducing the risk of unauthorized access and data breaches.<br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/role%20based.PNG?raw=true"><br>
+ </p><br>
+
+
+### Lock Resource
+
+In order to safeguard critical resources from accidental deletion or modification, administrators might find it necessary to lock a subscription, resource group, or resource. The Azure Portal offers the ability to set lock levels for this purpose, including the CanNotDelete (Delete) level, which allows authorized users to read and modify a resource, while preventing them from deleting it. Additionally, the ReadOnly (Read-only) level enables users to read a resource, but prohibits them from updating or deleting it. By using these lock levels, administrators can help ensure that important resources are not inadvertently altered or removed.<br>
+
+
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/lock.PNG?raw=true"><br>
+ </p><br>
+
+
+### Management Groups
+
+Azure Management Groups is a hierarchical organization concept that allows you to manage access, policy, and compliance across multiple Azure subscriptions. It provides a level of abstraction above subscriptions and allows you to group multiple subscriptions together under a common management hierarchy.Management groups give you enterprise-grade management at scale no matter what type of subscriptions you might have. However, all subscriptions within a single management group must trust the same Azure Active Directory (Azure AD) tenant.<br>
+
+
+You can build a flexible structure of management groups and subscriptions to organize your resources into a hierarchy for unified policy and access management. The following diagram shows an example of creating a hierarchy for governance using management groups.<br>
+
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/management%20groups.PNG?raw=true"><br>
+ </p><br>
+
 
 
