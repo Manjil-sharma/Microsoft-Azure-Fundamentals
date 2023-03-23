@@ -1769,4 +1769,21 @@ You can build a flexible structure of management groups and subscriptions to org
  </p><br>
 
 
+## Day 49 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I continued to learn about Azure Security Service and learned about Azure Monitor, Service Health and Azure Advisor.
+
+
+### Azure Monitor 
+
+Azure Monitor is a comprehensive monitoring solution for collecting, analyzing, and responding to telemetry from your cloud and on-premises environments. You can use Azure Monitor to maximize the availability and performance of your applications and services.<br>
+
+Azure Monitor collects and aggregates the data from every layer and component of your system into a common data platform. It correlates data across multiple Azure subscriptions and tenants, in addition to hosting data for other services. Because this data is stored together, it can be correlated and analyzed using a common set of tools. The data can then be used for analysis and visualizations to help you understand how your applications are performing and respond automatically to system events.<br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/azure%20monitor.PNG?raw=true"><br>
+ </p><br>
+ 
+
 
