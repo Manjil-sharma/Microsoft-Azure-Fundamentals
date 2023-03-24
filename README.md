@@ -1797,3 +1797,36 @@ The best way to use Service Health is to set up Service Health alerts to notify 
 
 Advisor is a personalized cloud consultant that helps you follow best practices to optimize your Azure deployments. It analyzes your resource configuration and usage telemetry and then recommends solutions that can help you improve the cost effectiveness, performance, Reliability, and security of your Azure resources.<br>
 
+
+
+
+
+
+
+## Day 50 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+
+Today I learned about Billing and Pricing in Azure.
+
+### Service Level Agreements
+
+Azure's Service Level Agreement (SLA) outlines its commitments regarding uptime and connectivity for its services. Each Azure service has its own unique SLA. Performance targets are represented as a percentage, such as 99% for two nines, 99.9% for three nines, 99.999% for five nines, and 99.9999999% for nine nines. Azure does not provide SLAs for Free Tier or shared tiers.
+
+For Virtual Machines, Azure guarantees that if two or more instances are deployed across two or more Availability Zones in the same region, Virtual Machine Connectivity will be available to at least one instance at least 99.99% of the time. For Virtual Machines with two or more instances deployed in the same Availability Set or Dedicated Host Group, Virtual Machine Connectivity will be available to at least one instance at least 99.95% of the time.
+
+### Service Credits
+
+Azure Service Credits are compensation provided by Microsoft Azure to customers in the form of credits on their Azure account. These credits are given to customers as compensation for Azure services that do not meet the service level agreements (SLAs) outlined by Microsoft.<br>
+
+For example, if an Azure service fails to meet its uptime or connectivity targets as specified in the SLA, Microsoft will provide customers with service credits to compensate for the downtime or disruption. These credits can then be used to pay for other Azure services or to offset future Azure bills.<br>
+
+
+### Azure Compsite SLA 
+
+Azure Composite SLA is a type of service level agreement (SLA) that defines the overall availability of a solution composed of multiple Azure services. It takes into account the inter-dependencies between different Azure services that make up the solution and calculates the overall uptime of the solution as a whole.<br>
+
+Composite SLA is used in situations where a solution is composed of multiple Azure services, and the overall availability of the solution is critical for the customer. In such cases, the customer needs to be able to rely on the solution being available and functioning as intended, regardless of the individual uptime of the underlying Azure services.<br>
+
+
+
+
