@@ -1831,7 +1831,7 @@ Composite SLA is used in situations where a solution is composed of multiple Azu
 ## Day 51 of #Microsoft Azure Fundamentals
 :large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
-Today I learned about TCO Calculator, Azure Market Place, Azure Support.
+Today I learned about TCO Calculator, Azure Market Place and Azure Support.
 
 ### TCO Calculator
 Azure TCO (Total Cost of Ownership) calculator is a tool provided by Microsoft Azure to help users estimate the total cost of running their applications on Azure compared to running them on-premises or on other cloud platforms. The TCO calculator considers various factors such as hardware costs, software licensing, maintenance and support, energy consumption, and personnel expenses to help users make informed decisions about the cost-effectiveness of migrating their applications to Azure.<br>
