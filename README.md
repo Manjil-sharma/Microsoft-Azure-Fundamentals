@@ -1828,5 +1828,29 @@ Azure Composite SLA is a type of service level agreement (SLA) that defines the 
 Composite SLA is used in situations where a solution is composed of multiple Azure services, and the overall availability of the solution is critical for the customer. In such cases, the customer needs to be able to rely on the solution being available and functioning as intended, regardless of the individual uptime of the underlying Azure services.<br>
 
 
+## Day 51 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
 
+Today I learned about TCO Calculator, Azure Market Place, Azure Support.
 
+### TCO Calculator
+Azure TCO (Total Cost of Ownership) calculator is a tool provided by Microsoft Azure to help users estimate the total cost of running their applications on Azure compared to running them on-premises or on other cloud platforms. The TCO calculator considers various factors such as hardware costs, software licensing, maintenance and support, energy consumption, and personnel expenses to help users make informed decisions about the cost-effectiveness of migrating their applications to Azure.<br>
+
+The Azure TCO calculator is used to evaluate the cost savings and benefits of migrating to Azure. By providing a detailed breakdown of costs, users can compare the costs of running their applications on Azure with the costs of running them on-premises or on other cloud platforms. This information can help users determine the financial benefits of migrating to Azure, such as reduced infrastructure costs, improved scalability, and increased productivity.<br>
+
+### Azure Market Place
+
+Azure Marketplace is an online store that contains thousands of IT software applications and services built by industry-leading technology companies. In Azure Marketplace you can find, try, buy, and deploy the software and services you need to build new solutions and manage your cloud infrastructure. The catalog includes solutions for different industries and technical areas, free trials, and also consulting services from Microsoft partners.<br>
+Azure Marketplace offers simple search and filtering options to help you quickly find what you're looking for. Use the search bar at the top of the page to find solutions by vendor, product name, or keywords.<br>
+
+<p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/market%20place.PNG?raw=true"><br>
+ </p><br>
+ 
+ ### Azure Support
+ 
+ Azure support is a service provided by Microsoft Azure that offers technical assistance and guidance to Azure users. The Azure support team comprises experienced technical professionals who are available to help users resolve any issues or problems they may encounter while using Azure services. Azure support is available in several levels, with each level offering different support options and response times.<br>
+ 
+ <p align="center">
+  <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/azure%20support.PNG?raw=true"><br>
+ </p><br>
