@@ -1880,6 +1880,18 @@ An Azure subscription is used to create and manage resources such as virtual mac
 
 
 
+### Pricing Calculator
+
+Azure Pricing Calculator is a tool provided by Microsoft Azure that allows customers to estimate the cost of their Azure services before they deploy them. The pricing calculator helps customers determine the estimated cost of running their workloads in Azure based on their requirements, such as the number of virtual machines, storage, network, and other resources needed.<br>
+
+### Azure Cost Management
+
+Azure Cost Management is a service provided by Microsoft Azure that enables customers to monitor, analyze, and optimize their cloud spending in Azure. Azure Cost Management provides customers with tools to track and manage their cloud costs, view usage data, and create cost alerts to avoid unexpected charges.<br>
+
+Azure Cost Management is used by individuals, organizations, and enterprises that use Azure to host applications, store data, and run workloads in the cloud. It is used by IT professionals, cloud architects, and finance teams to monitor and manage cloud spending, optimize resource usage, and reduce costs.<br>
+
+
+
 
 
 
