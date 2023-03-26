@@ -1854,3 +1854,34 @@ Azure Marketplace offers simple search and filtering options to help you quickly
  <p align="center">
   <img src="https://github.com/Manjil-sharma/Microsoft-Azure-Fundamentals/blob/main/Git%20hub/azure%20support.PNG?raw=true"><br>
  </p><br>
+ 
+ 
+ 
+ 
+ 
+ ## Day 52 of #Microsoft Azure Fundamentals
+:large_blue_diamond: **Course**: **Microsoft Azure Fundamentals (AZ-900)** <br>
+ 
+ 
+ Today I Learned some of the final topics of this course which are Azure Hybrid Benefit, Azure Subscription, Pricing Calculator and Azure Cost Management.
+ 
+ 
+ ### Azure Licensing – Azure Hybrid Benefit
+ 
+ Azure Hybrid Benefit is a licensing benefit provided by Microsoft Azure that allows customers with active Software Assurance (SA) on eligible on-premises licenses to save on virtual machines (VMs) running in Azure.<br>
+
+The benefit allows customers to use their existing Windows Server and SQL Server licenses with active Software Assurance to save up to 40% on Azure VMs' cost. This means customers can run their Windows Server and SQL Server workloads in Azure without having to pay for new licenses, but instead, they only pay for the Azure compute cost.<br>
+
+### Azure Subscription
+
+Azure subscription is a service provided by Microsoft Azure that provides access to Azure services and resources. It is a billing and management container for Azure resources that allows customers to manage and deploy their cloud resources in Azure.<br>
+
+An Azure subscription is used to create and manage resources such as virtual machines, storage accounts, and databases in Azure. It provides customers with the ability to use Azure services on a pay-as-you-go basis, which means they only pay for the resources they consume.<br>
+
+
+
+
+
+
+ 
+ 
